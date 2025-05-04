@@ -1,0 +1,2005 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "tips": [
+        {
+          "title": "Hydration is Key",
+          "shortDescription": "Stay hydrated to support fetal development.",
+          "fullDescription": "Drink plenty of water to enhance blood volume and ensure proper nutrient transport. Aim for at least 10-12 cups a day.",
+          "nutrients": ["Water"],
+          "foodSuggestions": ["Coconut water", "Watermelon", "Herbal teas"],
+          "benefits": ["Improves digestion", "Regulates body temperature", "Reduces swelling"],
+          "precautions": ["Avoid excessive caffeine", "Limit sugary drinks"]
+        },
+        {
+          "title": "Folic Acid Must-Have",
+          "shortDescription": "Essential for fetal growth.",
+          "fullDescription": "Consume foods rich in folate to prevent neural tube defects. Folic acid is crucial in the early stages of pregnancy.",
+          "nutrients": ["Folate", "Vitamin B12"],
+          "foodSuggestions": ["Leafy greens", "Lentils", "Fortified cereals"],
+          "benefits": ["Supports DNA synthesis", "Reduces risk of anemia"],
+          "precautions": ["Consider supplementation if dietary intake is low"]
+        },
+        {
+          "title": "Iron-Rich Choices",
+          "shortDescription": "Boost your iron intake.",
+          "fullDescription": "Iron is vital for forming red blood cells. Include iron-rich foods to prevent anemia during pregnancy.",
+          "nutrients": ["Iron"],
+          "foodSuggestions": ["Red meat", "Chickpeas", "Spinach"],
+          "benefits": ["Increases energy levels", "Supports fetal growth"],
+          "precautions": ["Drink orange juice with meals to enhance absorption"]
+        },
+        {
+          "title": "Avoid High Mercury Fish",
+          "shortDescription": "Choose safer fish options.",
+          "fullDescription": "Certain fish contain high mercury levels which can affect fetal brain development. Opt for low-mercury options.",
+          "nutrients": ["Omega-3 fatty acids"],
+          "foodSuggestions": ["Salmon", "Sardines", "Trout"],
+          "benefits": ["Supports brain development", "May reduce risk of preterm labor"],
+          "precautions": ["Avoid shark, swordfish, and king mackerel"]
+        },
+        {
+          "title": "Calcium for Strong Bones",
+          "shortDescription": "Calcium is vital for your baby's bone development.",
+          "fullDescription": "Ensure intake of calcium-rich foods to develop your baby's bones and teeth.",
+          "nutrients": ["Calcium", "Vitamin D"],
+          "foodSuggestions": ["Dairy products", "Tofu", "Broccoli"],
+          "benefits": ["Prevents osteoporosis", "Promotes fetal bone health"],
+          "precautions": ["Limit caffeine and salt intake"]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "tips": [
+        {
+          "title": "Protein-Packed Meals",
+          "shortDescription": "Key nutrient for growth.",
+          "fullDescription": "Protein is crucial during pregnancy to support the growth of fetal tissues, including the brain.",
+          "nutrients": ["Protein"],
+          "foodSuggestions": ["Chicken", "Eggs", "Quinoa"],
+          "benefits": ["Supports muscle development", "Provides energy"],
+          "precautions": ["Ensure eggs are well-cooked"]
+        },
+        {
+          "title": "Snack Smart with Nuts",
+          "shortDescription": "Healthy snack options.",
+          "fullDescription": "Nuts are packed with healthy fats, fiber, protein, and many vitamins and minerals which are great for emotional well-being.",
+          "nutrients": ["Vitamin E", "Magnesium"],
+          "foodSuggestions": ["Almonds", "Walnuts", "Cashews"],
+          "benefits": ["Provides energy", "Supports fetal growth"],
+          "precautions": ["Watch portion sizes to avoid excessive calorie intake"]
+        },
+        {
+          "title": "Berry Benefits",
+          "shortDescription": "Include antioxidant-rich berries.",
+          "fullDescription": "Berries provide antioxidants that protect both you and your baby from oxidative stress.",
+          "nutrients": ["Vitamin C", "Fiber"],
+          "foodSuggestions": ["Blueberries", "Strawberries", "Blackberries"],
+          "benefits": ["Boosts immune health", "Promotes healthy skin"],
+          "precautions": ["Wash thoroughly to remove pesticides"]
+        },
+        {
+          "title": "Whole Grains for Energy",
+          "shortDescription": "Choose whole grains for fiber and energy.",
+          "fullDescription": "Whole grains are rich in essential nutrients and can help prevent constipation.",
+          "nutrients": ["Fiber", "B vitamins"],
+          "foodSuggestions": ["Brown rice", "Oats", "Whole-grain bread"],
+          "benefits": ["Maintains steady energy levels", "Promotes digestive health"],
+          "precautions": ["Avoid refined grains"]
+        },
+        {
+          "title": "Limit Processed Foods",
+          "shortDescription": "Focus on whole foods.",
+          "fullDescription": "Minimize processed foods which often contain unhealthy additives. Opt for fresh and whole foods for better nutrition.",
+          "nutrients": [],
+          "foodSuggestions": ["Fruits", "Vegetables", "Lean proteins"],
+          "benefits": ["Improves overall health", "Reduces excess weight gain"],
+          "precautions": ["Read labels carefully for hidden sugars"]
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "tips": [
+        {
+          "title": "Omega-3 for Baby's Development",
+          "shortDescription": "Essential for brain development.",
+          "fullDescription": "Omega-3 fatty acids are crucial for the development of the fetal brain and nervous system.",
+          "nutrients": ["DHA", "EPA"],
+          "foodSuggestions": ["Walnuts", "Chia seeds", "Flaxseeds"],
+          "benefits": ["Supports cognitive function", "Reduces inflammation"],
+          "precautions": ["Balance intake with omega-6 fatty acids"]
+        },
+        {
+          "title": "Include Avocados",
+          "shortDescription": "Nutrient-dense superfood.",
+          "fullDescription": "Avocados are a great source of healthy fats, vitamins, and minerals vital for your baby's growth.",
+          "nutrients": ["Folate", "Vitamin K"],
+          "foodSuggestions": ["Guacamole", "Avocado toast"],
+          "benefits": ["Promotes healthy weight gain", "Supports nutrient absorption"],
+          "precautions": ["Moderate portion sizes due to calorie density"]
+        },
+        {
+          "title": "Iron Absorption",
+          "shortDescription": "Enhance iron intake with vitamin C.",
+          "fullDescription": "Pairing iron-rich foods with vitamin C can significantly enhance iron absorption in your body.",
+          "nutrients": ["Iron", "Vitamin C"],
+          "foodSuggestions": ["Broccoli with lemon", "Spinach and strawberries"],
+          "benefits": ["Improves energy levels", "Prevents anemia"],
+          "precautions": ["Avoid pairing with calcium-rich foods which inhibit absorption"]
+        },
+        {
+          "title": "Healthy Dairy Choices",
+          "shortDescription": "Choose low-fat dairy for calcium.",
+          "fullDescription": "Opt for low-fat dairy options to support bone health and fetal development without excess calories.",
+          "nutrients": ["Calcium", "Protein"],
+          "foodSuggestions": ["Low-fat milk", "Greek yogurt"],
+          "benefits": ["Strengthens bones", "Supports muscle growth"],
+          "precautions": ["Watch for added sugars in flavored options"]
+        },
+        {
+          "title": "Sufficient Fiber Intake",
+          "shortDescription": "Prevent constipation.",
+          "fullDescription": "Adequate fiber intake is crucial for digestive health, especially during pregnancy.",
+          "nutrients": ["Fiber"],
+          "foodSuggestions": ["Whole fruits", "Vegetables", "Legumes"],
+          "benefits": ["Prevents constipation", "Promotes satiety"],
+          "precautions": ["Increase fiber intake gradually and drink plenty of water"]
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "tips": [
+        {
+          "title": "Magnesium Matters",
+          "shortDescription": "Helps reduce leg cramps.",
+          "fullDescription": "Magnesium is essential for reducing cramps and ensuring proper muscle function during pregnancy.",
+          "nutrients": ["Magnesium"],
+          "foodSuggestions": ["Leafy greens", "Nuts", "Whole grains"],
+          "benefits": ["Improves muscle relaxation", "Supports a healthy pregnancy"],
+          "precautions": ["Consult a healthcare provider before taking supplements"]
+        },
+        {
+          "title": "Vitamin D for Strong Bones",
+          "shortDescription": "Keeps your bones healthy.",
+          "fullDescription": "Vitamin D helps with the absorption of calcium; ensure adequate sun exposure and dietary intake.",
+          "nutrients": ["Vitamin D", "Calcium"],
+          "foodSuggestions": ["Fortified milk", "Fatty fish"],
+          "benefits": ["Supports bone health", "Promotes fetal growth"],
+          "precautions": ["Avoid excessive sun exposure; use sunscreen"]
+        },
+        {
+          "title": "Seamless Sugar Swaps",
+          "shortDescription": "Limit added sugars in diet.",
+          "fullDescription": "Reduce added sugars in your diet to prevent excessive weight gain and manage energy levels.",
+          "nutrients": [],
+          "foodSuggestions": ["Fresh fruits", "Natural sweeteners"],
+          "benefits": ["Supports stable energy levels", "Reduces risk of gestational diabetes"],
+          "precautions": ["Read labels for hidden sugars"]
+        },
+        {
+          "title": "Stay Consistent with Meals",
+          "shortDescription": "Regular meals help maintain energy.",
+          "fullDescription": "Eating regular, small meals can help manage nausea and keep energy levels stable.",
+          "nutrients": [],
+          "foodSuggestions": ["Healthy snacks", "Small frequent meals"],
+          "benefits": ["Prevents nausea", "Maintains steady energy levels"],
+          "precautions": ["Avoid large meals that can exacerbate nausea"]
+        },
+        {
+          "title": "Enhance with Herbs",
+          "shortDescription": "Flavor your meals with herbs.",
+          "fullDescription": "Using herbs can enhance flavors without added sodium, and many offer additional health benefits.",
+          "nutrients": [],
+          "foodSuggestions": ["Basil", "Cilantro", "Ginger"],
+          "benefits": ["Adds flavor", "May aid digestion"],
+          "precautions": ["Consult about herbal supplements before use"]
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "tips": [
+        {
+          "title": "Savor Sweet Potatoes",
+          "shortDescription": "A nutrient-dense carbohydrate.",
+          "fullDescription": "Sweet potatoes are packed with vitamins, minerals, and fiber, making them an ideal pregnancy food.",
+          "nutrients": ["Vitamin A", "Fiber"],
+          "foodSuggestions": ["Roasted sweet potatoes", "Sweet potato puree"],
+          "benefits": ["Supports fetal growth", "Aids digestion"],
+          "precautions": ["Moderate intake to manage blood sugar levels"]
+        },
+        {
+          "title": "Choose Seasonal Fruits",
+          "shortDescription": "Opt for organic and in-season fruits.",
+          "fullDescription": "In-season fruits are fresher, tastier, and often more nutritious; choose organic when possible.",
+          "nutrients": ["Vitamin C", "Antioxidants"],
+          "foodSuggestions": ["Apples", "Pears", "Oranges"],
+          "benefits": ["Boosts immune system", "Promotes healthy skin"],
+          "precautions": ["Wash thoroughly to remove pesticides"]
+        },
+        {
+          "title": "Iron with a Twist",
+          "shortDescription": "Mix iron-rich foods with citrus.",
+          "fullDescription": "Pair iron-rich foods with citrus fruits to enhance absorption and maximize benefits.",
+          "nutrients": ["Iron", "Vitamin C"],
+          "foodSuggestions": ["Spinach salad with orange slices", "Lentils with lemon juice"],
+          "benefits": ["Improves energy levels", "Prevents anemia"],
+          "precautions": ["Avoid calcium-rich foods at the same meal"]
+        },
+        {
+          "title": "Cut Out Trans Fats",
+          "shortDescription": "Avoid unhealthy fats.",
+          "fullDescription": "Trans fats can affect fetal development and lead to long-term health issues; avoid processed foods.",
+          "nutrients": [],
+          "foodSuggestions": ["Natural oils", "Whole foods"],
+          "benefits": ["Supports a healthier pregnancy", "Reduces risk of complications"],
+          "precautions": ["Read food labels diligently"]
+        },
+        {
+          "title": "Limit Caffeine Intake",
+          "shortDescription": "Keep caffeine consumption to a minimum.",
+          "fullDescription": "High caffeine intake may increase the risk of miscarriages; limit to no more than 200 mg daily.",
+          "nutrients": [],
+          "foodSuggestions": ["Herbal teas", "Decaf coffee"],
+          "benefits": ["Reduces anxiety", "Supports fetal health"],
+          "precautions": ["Discuss caffeine limits with your healthcare provider"]
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "tips": [
+        {
+          "title": "Whole-Grain Pack",
+          "shortDescription": "Opt for whole grains for better nutrition.",
+          "fullDescription": "Whole grains are richer in nutrients than refined grains and provide sustained energy.",
+          "nutrients": ["Fiber", "B vitamins"],
+          "foodSuggestions": ["Oats", "Barley", "Whole-wheat bread"],
+          "benefits": ["Maintains digestive health", "Keeps energy levels stable"],
+          "precautions": ["Increase water intake with higher fiber diets"]
+        },
+        {
+          "title": "Pomegranate Power",
+          "shortDescription": "Rich in antioxidants.",
+          "fullDescription": "Pomegranates are known for their high antioxidant content which can benefit both mother and baby.",
+          "nutrients": ["Vitamin C", "Fiber"],
+          "foodSuggestions": ["Pomegranate juice", "Fresh pomegranate seeds"],
+          "benefits": ["Boosts immune health", "Supports fetal development"],
+          "precautions": ["Opt for natural juices without added sugars"]
+        },
+        {
+          "title": "Snack on Yogurt",
+          "shortDescription": "Support gut health.",
+          "fullDescription": "Yogurt contains probiotics that can support digestive health and bolster the immune system.",
+          "nutrients": ["Calcium", "Probiotics"],
+          "foodSuggestions": ["Plain yogurt", "Greek yogurt with fruits"],
+          "benefits": ["Enhances digestion", "Improves nutrient absorption"],
+          "precautions": ["Avoid high-sugar flavored yogurts"]
+        },
+        {
+          "title": "Eat Colorfully",
+          "shortDescription": "Include a variety of fruits and vegetables.",
+          "fullDescription": "Aim for a plethora of colorful produce to ensure a wide range of nutrients.",
+          "nutrients": [],
+          "foodSuggestions": ["Bell peppers", "Carrots", "Berries"],
+          "benefits": ["Rich in vitamins", "Boosts overall health"],
+          "precautions": ["Buy organic when possible to cut chemical exposure"]
+        },
+        {
+          "title": "Plan for Healthy Snacks",
+          "shortDescription": "Healthy snacks can maintain energy levels.",
+          "fullDescription": "Prepare nutritious snacks to keep your energy up throughout the day, preventing dips in blood sugar.",
+          "nutrients": ["Protein", "Fiber"],
+          "foodSuggestions": ["Nut butter on whole grain toast", "Veggies and hummus"],
+          "benefits": ["Prevents hunger", "Provides nutritional benefits"],
+          "precautions": ["Avoid snacks high in sugar or processed carbs"]
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "tips": [
+        {
+          "title": "B Vitamin Boost",
+          "shortDescription": "Crucial for energy metabolism.",
+          "fullDescription": "B vitamins are essential for energy production and fetal development, especially B6 and B12.",
+          "nutrients": ["B vitamins"],
+          "foodSuggestions": ["Eggs", "Meat", "Leafy greens"],
+          "benefits": ["Enhances energy levels", "Supports nervous system function"],
+          "precautions": ["Consult a healthcare provider for supplementation advice"]
+        },
+        {
+          "title": "Beans for High Fiber",
+          "shortDescription": "Great source of plant-based protein.",
+          "fullDescription": "Beans are loaded with protein and fiber, promoting digestion and helping manage blood sugar levels.",
+          "nutrients": ["Fiber", "Protein"],
+          "foodSuggestions": ["Black beans", "Chickpeas", "Lentils"],
+          "benefits": ["Supports digestive health", "Helps control weight gain"],
+          "precautions": ["Gradually increase intake to avoid gas"]
+        },
+        {
+          "title": "Healthy Cooking Oils",
+          "shortDescription": "Use heart-healthy oils.",
+          "fullDescription": "Incorporate vegetable oils, such as olive oil or avocado oil, for cooking instead of unhealthy fats.",
+          "nutrients": ["Monounsaturated fats"],
+          "foodSuggestions": ["Olive oil", "Avocado oil"],
+          "benefits": ["Supports heart health", "Provides essential fatty acids"],
+          "precautions": ["Avoid excessive oil to manage caloric intake"]
+        },
+        {
+          "title": "Popcorn for a Healthy Snack",
+          "shortDescription": "A whole grain choice.",
+          "fullDescription": "Air-popped popcorn is a whole grain snack that provides fiber without added fats or sugars.",
+          "nutrients": ["Fiber"],
+          "foodSuggestions": ["Air-popped popcorn", "Popcorn with nutritional yeast"],
+          "benefits": ["Supports digestion", "Reduces cravings"],
+          "precautions": ["Avoid butter and excessive salt"]
+        },
+        {
+          "title": "Ginger for Morning Sickness",
+          "shortDescription": "Natural remedy for nausea.",
+          "fullDescription": "Ginger can help alleviate morning sickness symptoms, a common challenge in early pregnancy.",
+          "nutrients": [],
+          "foodSuggestions": ["Ginger tea", "Ginger candies"],
+          "benefits": ["Reduces nausea", "Promotes digestive health"],
+          "precautions": ["Consult with a healthcare provider about dosage"]
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "tips": [
+        {
+          "title": "Green Smoothies",
+          "shortDescription": "Incorporate more greens.",
+          "fullDescription": "Smoothies can be a great way to sneak in greens while adding fiber and vitamins.",
+          "nutrients": ["Vitamin A", "Fiber"],
+          "foodSuggestions": ["Spinach smoothie", "Kale and avocado smoothie"],
+          "benefits": ["Boosts nutrient intake", "Easily digestible"],
+          "precautions": ["Avoid pre-packaged smoothies with added sugars"]
+        },
+        {
+          "title": "Almonds for Healthy Fats",
+          "shortDescription": "A convenient nutrient-dense snack.",
+          "fullDescription": "Almonds are rich in healthy fats, protein, fiber, and vitamin E, making them a perfect snack to support your pregnancy.",
+          "nutrients": ["Vitamin E", "Magnesium"],
+          "foodSuggestions": ["Raw almonds", "Almond butter"],
+          "benefits": ["Supports overall health", "Helps reduce cravings"],
+          "precautions": ["Watch portion sizes due to high-calorie content"]
+        },
+        {
+          "title": "Avoid Raw Foods",
+          "shortDescription": "Limit exposure to harmful bacteria.",
+          "fullDescription": "Raw or undercooked foods, especially seafood and eggs, can harbor harmful bacteria that affect pregnancy.",
+          "nutrients": [],
+          "foodSuggestions": ["Fully cooked seafood", "Pasteurized dairy"],
+          "benefits": ["Reduces risk of foodborne illnesses", "Promotes a healthy pregnancy"],
+          "precautions": ["Consult your healthcare provider for safe food lists"]
+        },
+        {
+          "title": "Nuts and Seeds Energy Bites",
+          "shortDescription": "Homemade snacks for a nutrient boost.",
+          "fullDescription": "Prepare homemade energy bites with nuts, seeds, and dried fruits for a satisfying snack.",
+          "nutrients": ["Protein", "Healthy fats"],
+          "foodSuggestions": ["Energy bites with oats and almond butter"],
+          "benefits": ["Convenient nutrition on-the-go", "Boosts energy levels"],
+          "precautions": ["Limit added sugars and high-calorie sweeteners"]
+        },
+        {
+          "title": "Enjoy Nutritious Soups",
+          "shortDescription": "Comfort food that's nutritious.",
+          "fullDescription": "Soups made with broth and plenty of vegetables can be a nutrient-dense option that hydrates and warms.",
+          "nutrients": [],
+          "foodSuggestions": ["Vegetable soup", "Chicken noodle soup"],
+          "benefits": ["Supports hydration", "Promotes gut health"],
+          "precautions": ["Opt for low-sodium broths to avoid excessive salt"]
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "tips": [
+        {
+          "title": "Zinc and Immunity",
+          "shortDescription": "Supports immune function.",
+          "fullDescription": "Zinc is important for immune health, and can support fetal growth during early pregnancy.",
+          "nutrients": ["Zinc"],
+          "foodSuggestions": ["Meat", "Shellfish", "Nuts"],
+          "benefits": ["Boosts immune response", "Important for cell division"],
+          "precautions": ["Consult a healthcare provider before taking supplements"]
+        },
+        {
+          "title": "Dairy For Probiotics",
+          "shortDescription": "Promote gut health.",
+          "fullDescription": "Fermented dairy can help maintain a healthy gut microbiome during pregnancy.",
+          "nutrients": ["Probiotics", "Calcium"],
+          "foodSuggestions": ["Kefir", "Yogurt"],
+          "benefits": ["Enhanced digestion", "Improved immune function"],
+          "precautions": ["Watch for added sugars in flavored options"]
+        },
+        {
+          "title": "Healthy Late-Night Snacks",
+          "shortDescription": "Keep your energy levels up.",
+          "fullDescription": "Helpful for avoiding nausea or hunger that can interrupt sleep. Choose healthy options that are nutrient-dense.",
+          "nutrients": ["Protein", "Fiber"],
+          "foodSuggestions": ["Cottage cheese with fruit", "Whole-grain crackers with cheese"],
+          "benefits": ["Prevents midnight hunger", "Supports healthy weight gain"],
+          "precautions": ["Avoid high-sugar options that may disrupt sleep"]
+        },
+        {
+          "title": "Seaside Nutrition",
+          "shortDescription": "Nutrient-rich seafood.",
+          "fullDescription": "Seafood is rich in omega-3 fatty acids. Choose low-mercury options to benefit fetal development.",
+          "nutrients": ["DHA", "Protein"],
+          "foodSuggestions": ["Grilled salmon", "Shrimp"],
+          "benefits": ["Supports fetal brain growth", "Regulates mood"],
+          "precautions": ["Limit high-mercury fish"]
+        },
+        {
+          "title": "The Power of Cilantro",
+          "shortDescription": "A flavorful herb with benefits.",
+          "fullDescription": "Cilantro can aid in digestion and adds flavor to your meals without extra calories.",
+          "nutrients": ["Vitamin K"],
+          "foodSuggestions": ["Cilantro in salsas", "Cilantro pesto"],
+          "benefits": ["Enhances flavor", "May assist digestion"],
+          "precautions": ["Check for allergies before using"]
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "tips": [
+        {
+          "title": "Vitamin B6 for Morning Sickness",
+          "shortDescription": "Helps alleviate nausea.",
+          "fullDescription": "Vitamin B6 can help reduce morning sickness nausea. Include foods high in this vitamin in your diet.",
+          "nutrients": ["Vitamin B6"],
+          "foodSuggestions": ["Bananas", "Chicken, turkey", "Potatoes"],
+          "benefits": ["Reduces morning sickness", "Supports fetal development"],
+          "precautions": ["Consult your healthcare provider about supplementation"]
+        },
+        {
+          "title": "Iron-Rich Dark Chocolate",
+          "shortDescription": "A sweet way to boost iron intake.",
+          "fullDescription": "Consuming dark chocolate in moderation can be a delightful way to increase iron levels.",
+          "nutrients": ["Iron", "Antioxidants"],
+          "foodSuggestions": ["Dark chocolate (70% cocoa or higher)"],
+          "benefits": ["Satisfied cravings", "Provides antioxidants"],
+          "precautions": ["Moderate intake due to sugar and fat"]
+        },
+        {
+          "title": "Include Carrots",
+          "shortDescription": "Great way to increase vitamin A.",
+          "fullDescription": "Carrots are rich in beta-carotene, an important contributor to fetal eye development.",
+          "nutrients": ["Beta-carotene", "Vitamin A"],
+          "foodSuggestions": ["Carrot sticks", "Carrot juice"],
+          "benefits": ["Supports vision", "Enhances skin health"],
+          "precautions": ["Wash thoroughly before eating to avoid pesticides"]
+        },
+        {
+          "title": "Withstand the Heat",
+          "shortDescription": "Cooling foods for warm days.",
+          "fullDescription": "During warmer weather, choose hydrating and cooling foods like salads and fresh fruits to stay comfortable.",
+          "nutrients": ["Water", "Vitamins"],
+          "foodSuggestions": ["Cucumber salad", "Fruit kabobs"],
+          "benefits": ["Hydrates the body", "Keeps energy levels up"],
+          "precautions": ["Avoid excessive salt, especially in dressings"]
+        },
+        {
+          "title": "Keep an Eye on Salt",
+          "shortDescription": "Minimize salt intake.",
+          "fullDescription": "Excessive salt can lead to increased blood pressure and swelling; be mindful of your sodium intake.",
+          "nutrients": [],
+          "foodSuggestions": ["Flavors from herbs and spices"],
+          "benefits": ["Supports cardiovascular health", "Reduces swelling"],
+          "precautions": ["Limit processed foods high in sodium"]
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "tips": [
+        {
+          "title": "Kickstart with Quinoa",
+          "shortDescription": "Complete protein source.",
+          "fullDescription": "Quinoa is a great plant-based protein source and packed with nutrients essential for pregnancy.",
+          "nutrients": ["Protein", "Magnesium"],
+          "foodSuggestions": ["Quinoa salad", "Quinoa porridge"],
+          "benefits": ["Promotes muscle growth", "Boosts energy"],
+          "precautions": ["Rinse before cooking to remove saponins"]
+        },
+        {
+          "title": "Boost with Broccoli",
+          "shortDescription": "Cruciferous vegetable with numerous benefits.",
+          "fullDescription": "Broccoli is packed with vitamins, minerals, and antioxidants beneficial during pregnancy.",
+          "nutrients": ["Vitamin C", "Folate"],
+          "foodSuggestions": ["Steamed broccoli", "Broccoli stir-fry"],
+          "benefits": ["Supports kidney function", "Aids in digestion"],
+          "precautions": ["Cook thoroughly to enhance digestion"]
+        },
+        {
+          "title": "Baked Apples",
+          "shortDescription": "Healthier way to satisfy your sweet tooth.",
+          "fullDescription": "Baked apples can be a delicious dessert that provides fiber and vitamins while keeping injurious additives to a minimum.",
+          "nutrients": ["Fiber", "Vitamin C"],
+          "foodSuggestions": ["Baked apples with cinnamon", "Apple slices with almond butter"],
+          "benefits": ["Provides a natural sweet option", "Enhances digestion"],
+          "precautions": ["Monitor sugar levels if adding sweeteners"]
+        },
+        {
+          "title": "Utilize Pumpkin Seeds",
+          "shortDescription": "Packed with nutrition.",
+          "fullDescription": "Pumpkin seeds are high in magnesium, zinc, and healthy fats, making them a nutritious snack option.",
+          "nutrients": ["Magnesium", "Zinc"],
+          "foodSuggestions": ["Roasted pumpkin seeds", "Pumpkin seed granola"],
+          "benefits": ["Improves sleep quality", "Supports fetal growth"],
+          "precautions": ["Consume in moderation to avoid excessive calories"]
+        },
+        {
+          "title": "Green Tea Considerations",
+          "shortDescription": "Enjoy in moderation.",
+          "fullDescription": "While green tea has health benefits, it contains caffeine and should be consumed in moderation during pregnancy.",
+          "nutrients": [],
+          "foodSuggestions": ["Unsweetened green tea"],
+          "benefits": ["Contains antioxidants", "May help with digestion"],
+          "precautions": ["Limit to 1-2 cups a day"]
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "tips": [
+        {
+          "title": "Lentils are a Superfood",
+          "shortDescription": "Protein-rich legumes.",
+          "fullDescription": "Lentils are a great source of protein, iron, and folate, crucial during pregnancy.",
+          "nutrients": ["Protein", "Iron"],
+          "foodSuggestions": ["Lentil soup", "Lentil salad"],
+          "benefits": ["Improves energy levels", "Supports fetal development"],
+          "precautions": ["Cook properly to enhance digestibility"]
+        },
+        {
+          "title": "Sautéed Spinach Delight",
+          "shortDescription": "Rich in iron and nutrients.",
+          "fullDescription": "Sauté spinach with garlic for a tasty side dish that boosts iron and folate levels.",
+          "nutrients": ["Iron", "Folate"],
+          "foodSuggestions": ["Sautéed spinach with olive oil"],
+          "benefits": ["Supports blood health", "Enhances nutrient absorption"],
+          "precautions": ["Avoid overcooking to retain nutrients"]
+        },
+        {
+          "title": "Include Tofu",
+          "shortDescription": "Versatile plant protein.",
+          "fullDescription": "Tofu is a good source of plant-based protein and provides calcium and iron to support baby’s growth.",
+          "nutrients": ["Protein", "Calcium"],
+          "foodSuggestions": ["Stir-fried tofu with vegetables"],
+          "benefits": ["Supports muscle repair", "Strengthens bones"],
+          "precautions": ["Choose organic if possible"]
+        },
+        {
+          "title": "Avoid Alcohol",
+          "shortDescription": "Essential to avoid alcohol in pregnancy.",
+          "fullDescription": "Avoid any alcohol during pregnancy as it can pose a risk to fetal development.",
+          "nutrients": [],
+          "foodSuggestions": [],
+          "benefits": [],
+          "precautions": ["Complete abstinence is recommended for a healthy pregnancy"]
+        },
+        {
+          "title": "Mushrooms for Vitamin D",
+          "shortDescription": "Natural source of vitamin D.",
+          "fullDescription": "Certain mushrooms provide vitamin D, essential for calcium absorption and bone health.",
+          "nutrients": ["Vitamin D"],
+          "foodSuggestions": ["Sautéed mushrooms"],
+          "benefits": ["Supports bone health", "Promotes immune function"],
+          "precautions": ["Ensure they are well-cleaned and cooked"]
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "tips": [
+        {
+          "title": "Choose Whole Milk",
+          "shortDescription": "For extra calcium and fat.",
+          "fullDescription": "Whole milk provides fat-soluble vitamins and is an excellent source of calcium for your baby's rapid growth.",
+          "nutrients": ["Calcium", "Vitamin D"],
+          "foodSuggestions": ["Whole milk", "Cheese"],
+          "benefits": ["Supports fetal growth", "Strengthens bones"],
+          "precautions": ["Opt for organic when possible"]
+        },
+        {
+          "title": "Explore Greek Yogurt",
+          "shortDescription": "Higher protein content.",
+          "fullDescription": "Greek yogurt is nutrient-dense, providing protein and probiotics that support digestion.",
+          "nutrients": ["Protein", "Probiotics"],
+          "foodSuggestions": ["Greek yogurt with fruit", "Smoothies"],
+          "benefits": ["Keeps you full longer", "Supports gut health"],
+          "precautions": ["Choose low-sugar options"]
+        },
+        {
+          "title": "Chickpeas for Fiber",
+          "shortDescription": "A versatile legume.",
+          "fullDescription": "Chickpeas are a great source of protein and fiber, aiding in digestion and helping manage blood sugar levels.",
+          "nutrients": ["Fiber", "Protein"],
+          "foodSuggestions": ["Hummus", "Chickpea salad"],
+          "benefits": ["Promotes satiety", "Supports gut health"],
+          "precautions": ["Start with small portions to avoid digestive discomfort"]
+        },
+        {
+          "title": "Acai Berry Boost",
+          "shortDescription": "Rich in antioxidants and vitamins.",
+          "fullDescription": "Acai berries are nutrient-rich, providing antioxidants that help combat oxidative stress during pregnancy.",
+          "nutrients": ["Antioxidants", "Vitamins"],
+          "foodSuggestions": ["Acai smoothie bowl", "Acai berries in cereals"],
+          "benefits": ["Supports immune health", "Enhances skin health"],
+          "precautions": ["Check for possible allergies before introduction"]
+        },
+        {
+          "title": "Stay Away from Raw Eggs",
+          "shortDescription": "Dangerous due to bacteria.",
+          "fullDescription": "Raw eggs can carry the risk of salmonella. Ensure all eggs are well-cooked to protect yourself and your baby.",
+          "nutrients": [],
+          "foodSuggestions": [],
+          "benefits": [],
+          "precautions": ["Avoid raw egg dishes like certain dressings and hollandaise sauces"]
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "tips": [
+        {
+          "title": "Bedtime Banana",
+          "shortDescription": "A great night snack.",
+          "fullDescription": "Bananas are rich in potassium and help regulate fluid balance, ideal for late-night cravings.",
+          "nutrients": ["Potassium", "Vitamin B6"],
+          "foodSuggestions": ["Banana slices with nut butter", "Banana smoothies"],
+          "benefits": ["Promotes sleep", "Stabilizes blood pressure"],
+          "precautions": ["Monitor portion sizes if concerned about sugar levels"]
+        },
+        {
+          "title": "Whole Wheat Bread",
+          "shortDescription": "Higher fiber option.",
+          "fullDescription": "Incorporate whole wheat bread to your diet for an increased fiber and nutrient intake during pregnancy.",
+          "nutrients": ["Fiber", "B vitamins"],
+          "foodSuggestions": ["Whole wheat toast with avocado", "Sandwiches"],
+          "benefits": ["Supports digestive health", "Keeps energy levels stable"],
+          "precautions": ["Avoid added sugars in some commercial whole grain breads"]
+        },
+        {
+          "title": "Dinner with Dark Leafy Greens",
+          "shortDescription": "Rich in nutrients.",
+          "fullDescription": "Including dark leafy greens like kale and collard greens in your diet can provide essential nutrients for you and your baby.",
+          "nutrients": ["Folate", "Iron"],
+          "foodSuggestions": ["Kale salads", "Collard green wraps"],
+          "benefits": ["Supports fetal development", "Improves overall health"],
+          "precautions": ["Wash thoroughly to remove pesticides"]
+        },
+        {
+          "title": "Coconut Water Hydration",
+          "shortDescription": "Stay hydrated with electrolytes.",
+          "fullDescription": "Coconut water is a natural electrolyte-rich drink that can keep you well-hydrated, especially during warmer weather.",
+          "nutrients": ["Electrolytes", "Potassium"],
+          "foodSuggestions": ["Fresh coconut water"],
+          "benefits": ["Hydration aids", "Helps in combating fatigue"],
+          "precautions": ["Choose pure coconut water without added sugars"]
+        },
+        {
+          "title": "Salmon for Omega-3",
+          "shortDescription": "Rich in essential fatty acids.",
+          "fullDescription": "Salmon is one of the best sources of omega-3 fatty acids, which are vital for fetal brain development.",
+          "nutrients": ["Omega-3 fatty acids", "Protein"],
+          "foodSuggestions": ["Grilled salmon", "Salmon salad"],
+          "benefits": ["Supports brain development", "Improves mood"],
+          "precautions": ["Avoid raw or undercooked salmon"]
+        }
+      ]
+    },
+// Continue filling in the subsequent weeks similarly, until week 40
+    {
+      "week": 15,
+      "tips": [
+        {
+          "title": "Superb Spinach",
+          "shortDescription": "Rich in iron and vitamins.",
+          "fullDescription": "Spinach is nutrient-dense and provides essential iron and calcium for fetal development.",
+          "nutrients": ["Iron", "Calcium"],
+          "foodSuggestions": ["Spinach omelette", "Spinach smoothie"],
+          "benefits": ["Boosts iron levels", "Promotes strong bones"],
+          "precautions": ["Wash thoroughly to avoid pesticides"]
+        },
+        {
+          "title": "Pasta with Protein",
+          "shortDescription": "Whole grain pasta for energy.",
+          "fullDescription": "Whole grain pasta provides complex carbs to keep you energized and can be paired with protein for balanced meals.",
+          "nutrients": ["Complex carbohydrates", "Protein"],
+          "foodSuggestions": ["Whole grain pasta with chicken", "Pasta salad with beans"],
+          "benefits": ["Provides sustained energy", "Supports muscle health"],
+          "precautions": ["Watch portion size to avoid calorie excess"]
+        },
+        {
+          "title": "Delicious Dates",
+          "shortDescription": "Natural energy booster.",
+          "fullDescription": "Dates are high in fiber and natural sugars, making them an excellent snack for energy throughout the day.",
+          "nutrients": ["Fiber", "Potassium"],
+          "foodSuggestions": ["Stuffed dates with nuts", "Date smoothies"],
+          "benefits": ["Provides quick energy", "Supports digestion"],
+          "precautions": ["Monitor intake for sugar content"]
+        },
+        {
+          "title": "Stay Active with Exercise",
+          "shortDescription": "Gentle activities are beneficial.",
+          "fullDescription": "Engaging in light exercise can help maintain muscle tone, improve mood, and support healthy weight gain during pregnancy.",
+          "nutrients": [],
+          "foodSuggestions": ["Walking", "Prenatal yoga"],
+          "benefits": ["Improves circulation", "Reduces stress"],
+          "precautions": ["Consult with your healthcare provider before starting new activities"]
+        },
+        {
+          "title": "Nutritious Nut Butter",
+          "shortDescription": "A great source of protein.",
+          "fullDescription": "Nut butters are rich in protein and healthy fats and make for delicious snacks or additions to meals.",
+          "nutrients": ["Protein", "Healthy fats"],
+          "foodSuggestions": ["Almond butter on toast", "Peanut butter smoothies"],
+          "benefits": ["Promotes fullness", "Supports fetal development"],
+          "precautions": ["Choose natural nut butters without added sugars"]
+        }
+      ]
+    },
+    {
+      "week": 16,
+      "tips": [
+        {
+          "title": "Mango Magic",
+          "shortDescription": "Delicious and nutritious fruit.",
+          "fullDescription": "Mangoes are rich in vitamins A and C and can help boost your immune system during pregnancy.",
+          "nutrients": ["Vitamin C", "Vitamin A"],
+          "foodSuggestions": ["Mango smoothies", "Fresh mango slices"],
+          "benefits": ["Supports immune health", "Promotes collagen production"],
+          "precautions": ["Eat in moderation to avoid sugar overload"]
+        },
+        {
+          "title": "Nutritious Chia Seeds",
+          "shortDescription": "Tiny but mighty seeds.",
+          "fullDescription": "Chia seeds are rich in omega-3 fatty acids and fiber, making them a great addition to smoothies or oatmeal.",
+          "nutrients": ["Omega-3 fatty acids", "Fiber"],
+          "foodSuggestions": ["Chia pudding", "Smoothies with chia seeds"],
+          "benefits": ["Supports heart health", "Promotes healthy digestion"],
+          "precautions": ["Soak before consuming to enhance digestibility"]
+        },
+        {
+          "title": "Healthy Snack Bars",
+          "shortDescription": "Homemade bars for convenience.",
+          "fullDescription": "Prepare homemade snack bars with oats, nuts, and dried fruits for a nutritious grab-and-go snack.",
+          "nutrients": ["Fiber", "Healthy fats"],
+          "foodSuggestions": ["Oatmeal bars", "Nut-fruit bars"],
+          "benefits": ["Convenient nutrition", "Satiety between meals"],
+          "precautions": ["Control portions to manage calorie intake"]
+        },
+        {
+          "title": "Incorporate Sweet Peppers",
+          "shortDescription": "Bright, colorful, and nutritious.",
+          "fullDescription": "Sweet peppers are high in vitamins C, A, and antioxidants; include them in salads or stir-fries.",
+          "nutrients": ["Vitamin C", "Antioxidants"],
+          "foodSuggestions": ["Stir-fry with peppers", "Stuffed peppers"],
+          "benefits": ["Boosts immune system", "Supports skin health"],
+          "precautions": ["Wash thoroughly before consumption"]
+        },
+        {
+          "title": "Balance with Healthy Fats",
+          "shortDescription": "Incorporate sources of healthy fats.",
+          "fullDescription": "Healthy fats are essential for fetal brain development and should be included in your diet in moderation.",
+          "nutrients": ["Monounsaturated fats"],
+          "foodSuggestions": ["Olive oil", "Avocados"],
+          "benefits": ["Supports brain development", "Enhances nutrient absorption"],
+          "precautions": ["Avoid trans fats and over-consumption"]
+        }
+      ]
+    },
+    {
+      "week": 17,
+      "tips": [
+        {
+          "title": "Potatoes for Energy",
+          "shortDescription": "Starch that provides energy.",
+          "fullDescription": "Potatoes are versatile, providing a good source of carbohydrates and can help regulate energy levels.",
+          "nutrients": ["Carbohydrates", "Vitamin C"],
+          "foodSuggestions": ["Baked potatoes", "Mashed potatoes"],
+          "benefits": ["Provides sustained energy", "Supports immune function"],
+          "precautions": ["Cook thoroughly before eating"]
+        },
+        {
+          "title": "Feast on Fruits",
+          "shortDescription": "Variety of fruits for nutrients.",
+          "fullDescription": "Incorporate a variety of fruits for necessary vitamins and minerals during pregnancy.",
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Fresh fruit salads", "Mixed fruit smoothies"],
+          "benefits": ["Provides antioxidants", "Supports digestive health"],
+          "precautions": ["Limit fruit juices to avoid added sugars"]
+        },
+        {
+          "title": "Rice for Simple Carbohydrates",
+          "shortDescription": "A staple food that provides energy.",
+          "fullDescription": "Brown rice is high in fiber and makes a great side dish while keeping you energized.",
+          "nutrients": ["Carbohydrates", "Fiber"],
+          "foodSuggestions": ["Brown rice bowl", "Stir-fried rice"],
+          "benefits": ["Maintains healthy blood sugar levels", "Supports energy needs"],
+          "precautions": ["Rinse before cooking to reduce arsenic content"]
+        },
+        {
+          "title": "Zest with Citrus Fruits",
+          "shortDescription": "Rich sources of vitamin C.",
+          "fullDescription": "Citrus fruits are bursting with vitamin C which supports your immune system and helps absorb iron from plant sources.",
+          "nutrients": ["Vitamin C"],
+          "foodSuggestions": ["Orange slices", "Lemon water"],
+          "benefits": ["Boosts immunity", "Enhances absorption of nutrients"],
+          "precautions": ["Monitor for acid reflux issues"]
+        },
+        {
+          "title": "Go for Garlic",
+          "shortDescription": "Add flavor and health benefits.",
+          "fullDescription": "Garlic has numerous health benefits, including antimicrobial properties and supporting heart health.",
+          "nutrients": ["Allicin"],
+          "foodSuggestions": ["Garlic bread", "Sautéed vegetables with garlic"],
+          "benefits": ["Boosts immunity", "Aids heart health"],
+          "precautions": ["Consult a healthcare provider about any supplement use"]
+        }
+      ]
+    },
+    {
+      "week": 18,
+      "tips": [
+        {
+          "title": "Lean Proteins",
+          "shortDescription": "Support fetal growth.",
+          "fullDescription": "Lean proteins are vital for muscle development and fetal growth. Include sufficient amounts in your diet.",
+          "nutrients": ["Protein"],
+          "foodSuggestions": ["Chicken breast", "Turkey, tofu"],
+          "benefits": ["Enhances muscle growth", "Supports overall health"],
+          "precautions": ["Avoid processed meats high in sodium"]
+        },
+        {
+          "title": "Sweeten with Honey",
+          "shortDescription": "A natural sweetener.",
+          "fullDescription": "Honey is a good alternative to refined sugar and provides antioxidant properties when consumed in moderation.",
+          "nutrients": ["Sugars", "Antioxidants"],
+          "foodSuggestions": ["Honey in tea", "Honey on toast"],
+          "benefits": ["Natural sweetener", "Boosts energy"],
+          "precautions": ["Avoid for infants; limit daily intake"]  
+        },
+        {
+          "title": "Embrace Egg Nutrition",
+          "shortDescription": "A versatile and nutrient-rich option.",
+          "fullDescription": "Eggs provide a great source of protein, healthy fats, and essential nutrients like choline.",
+          "nutrients": ["Choline", "Protein"],
+          "foodSuggestions": ["Scrambled eggs", "Egg salads"],
+          "benefits": ["Supports brain development", "Maintains energy levels"],
+          "precautions": ["Ensure eggs are well-cooked to avoid salmonella"]
+        },
+        {
+          "title": "Nutty Oatmeal",
+          "shortDescription": "Great breakfast choice.",
+          "fullDescription": "Oatmeal topped with nuts is a hearty breakfast that provides fiber and complex carbohydrates.",
+          "nutrients": ["Fiber", "Protein"],
+          "foodSuggestions": ["Oatmeal with almonds", "Nut butter oats"],
+          "benefits": ["Sustained energy", "Helps with digestion"],
+          "precautions": ["Include toppings mindfully; check portion sizes"]
+        },
+        {
+          "title": "Opt for Fish",
+          "shortDescription": "Provides healthy fats.",
+          "fullDescription": "Fish is an excellent source of protein and omega-3 fatty acids that are essential for fetal growth and development.",
+          "nutrients": ["Omega-3 fatty acids", "Protein"],
+          "foodSuggestions": ["Baked salmon", "Grilled tilapia"],
+          "benefits": ["Supports brain health", "Improves mood"],
+          "precautions": ["Limit high-mercury fish options"]
+        }
+      ]
+    },
+    {
+      "week": 19,
+      "tips": [
+        {
+          "title": "Fermented Foods",
+          "shortDescription": "Support gut health.",
+          "fullDescription": "Including fermented foods like yogurt and kimchi can help maintain a healthy gut microbiome during pregnancy.",
+          "nutrients": ["Probiotics"],
+          "foodSuggestions": ["Traditional kimchi", "Kefir"],
+          "benefits": ["Enhances digestion", "Boosts immunity"],
+          "precautions": ["Consume pasteurized versions when necessary"]
+        },
+        {
+          "title": "Fruits for Fiber",
+          "shortDescription": "Keep digestive health in check.",
+          "fullDescription": "Fruits are high in fiber, which can help prevent constipation and support a healthy digestive system.",
+          "nutrients": ["Fiber", "Vitamins"],
+          "foodSuggestions": ["Berries", "Apples"],
+          "benefits": ["Promotes a healthy digestive tract", "Supports nutrient absorption"],
+          "precautions": ["Wash to remove pesticides thoroughly"]
+        },
+        {
+          "title": "Whole Grain Snacks",
+          "shortDescription": "Nutrient-rich snack options.",
+          "fullDescription": "Opt for whole grain snacks over refined options to provide fiber and sustained energy.",
+          "nutrients": ["Fiber", "Whole grains"],
+          "foodSuggestions": ["Whole grain crackers", "Popcorn"],
+          "benefits": ["Healthy snacking option", "Maintains steady blood sugar"],
+          "precautions": ["Watch for added salts and sugars"]
+        },
+        {
+          "title": "Stay Calm with Herbal Teas",
+          "shortDescription": "Soothing options for relaxation.",
+          "fullDescription": "Herbal teas can be beneficial for relaxation and easing pregnancy discomforts.",
+          "nutrients": [],
+          "foodSuggestions": ["Caffeine-free herbal teas"],
+          "benefits": ["Promotes relaxation", "Reduces nausea"],
+          "precautions": ["Consult your healthcare provider about herbal tea types"]
+        },
+        {
+          "title": "Whole Wheat Tortillas",
+          "shortDescription": "For wraps and snacks.",
+          "fullDescription": "Whole wheat tortillas can be a healthier alternative for sandwiches and wraps, packing in more nutrients.",
+          "nutrients": ["Fiber", "B vitamins"],
+          "foodSuggestions": ["Wraps filled with beans and veggies"],
+          "benefits": ["Supports digestive health", "Provides sustained energy"],
+          "precautions": ["Check for preservatives or added sugars"]
+        }
+      ]
+    },
+    {
+      "week": 20,
+      "tips": [
+        {
+          "title": "Chill with Cold Soups",
+          "shortDescription": "Refreshing and nutritious.",
+          "fullDescription": "Cold soups like gazpacho or cucumber soup can keep you refreshed and are nutrient-dense.",
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Chilled gazpacho", "Chilled cucumber soup"],
+          "benefits": ["Hydration", "Light and refreshing meal option"],
+          "precautions": ["Use fresh ingredients to avoid foodborne illness"]
+        },
+        {
+          "title": "Sweeten Up with Berries",
+          "shortDescription": "Delicious and nutritious treats.",
+          "fullDescription": "Berries are a great snack option rich in antioxidants and vital vitamins for healthy pregnancy.","
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Berry smoothies", "Yogurt with berries"],
+          "benefits": ["Improves heart health", "Supports healthy skin"],
+          "precautions": ["Wash thoroughly"]
+        },
+        {
+          "title": "Add Cilantro to Dishes",
+          "shortDescription": "Fresh flavor and detox benefits.",
+          "fullDescription": "Cilantro can add freshness to your meals and supports detoxification processes in the body.",
+          "nutrients": ["Vitamins"],
+          "foodSuggestions": ["Cilantro pesto", "Salsas"],
+          "benefits": ["Enhances flavor", "Supports health"],
+          "precautions": ["Rinse before use to avoid chemicals"]
+        },
+        {
+          "title": "Nourish with Sweet Potatoes",
+          "shortDescription": "Packed with vitamins.",
+          "fullDescription": "Sweet potatoes are rich in vitamins A and C and fiber, supporting digestive health and baby's growth.",
+          "nutrients": ["Vitamin A", "Fiber"],
+          "foodSuggestions": ["Roasted sweet potatoes", "Sweet potato mash"],
+          "benefits": ["Boosts immunity", "Supports healthy digestion"],
+          "precautions": ["Monitor portion sizes"]
+        },
+        {
+          "title": "Spinach Smoothie",
+          "shortDescription": "Nutritious and yummy drink.",
+          "fullDescription": "A spinach smoothie can be a great way to get greens while remaining delicious and refreshing.",
+          "nutrients": ["Iron", "Vitamins"],
+          "foodSuggestions": ["Smoothie with spinach, banana, and almond milk"],
+          "benefits": ["Enhances energy", "Boosts nutrient intake"],
+          "precautions": ["Wash spinach properly before blending"]
+        }
+      ]
+    },
+    {
+      "week": 21,
+      "tips": [
+        {
+          "title": "Zucchini Noodles",
+          "shortDescription": "Low-carb pasta alternative.",
+          "fullDescription": "Zucchini noodles can be a great alternative to regular pasta, keeping meals light yet filling.",
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Zoodles with marinara sauce", "Stir-fried zucchini veggies"],
+          "benefits": ["Supports digestion", "Low calorie"],
+          "precautions": ["Choose fresh zucchini to avoid bitterness"]
+        },
+        {
+          "title": "Carrot Sticks for Snacks",
+          "shortDescription": "Crunchy and nutritious.",
+          "fullDescription": "Carrot sticks make a great crunchy snack rich in beta carotene and fiber.",
+          "nutrients": ["Vitamin A", "Fiber"],
+          "foodSuggestions": ["Carrot sticks with hummus", "Salad with shredded carrots"],
+          "benefits": ["Supports vision", "Keeps you satisfied"],
+          "precautions": ["Wash carrots thoroughly"]
+        },
+        {
+          "title": "Beverages With Benefits",
+          "shortDescription": "Mindful beverage choices.",
+          "fullDescription": "Opt for healthy drinks like smoothies and fresh juices over soda or sugary drinks to stay hydrated.",
+          "nutrients": ["Vitamins"],
+          "foodSuggestions": ["Fresh juice", "Smoothies"],
+          "benefits": ["Keeps you hydrated", "Increases nutrient intake"],
+          "precautions": ["Avoid adding too much sugar"]
+        },
+        {
+          "title": "Eggplant Delights",
+          "shortDescription": "Nutritious and versatile vegetable.",
+          "fullDescription": "Eggplant is rich in antioxidants and low in calories, making it a nice addition to meals.",
+          "nutrients": ["Fiber", "Antioxidants"],
+          "foodSuggestions": ["Grilled eggplant", "Eggplant in casseroles"],
+          "benefits": ["Aids digestion", "Supports heart health"],
+          "precautions": ["Cook thoroughly to enhance digestibility"]
+        },
+        {
+          "title": "Nutritious Salsas",
+          "shortDescription": "Add freshness to meals.",
+          "fullDescription": "Fresh salsa can bring flavor and nutrients to your meals, being low-calorie and refreshing.",
+          "nutrients": ["Vitamins", "Antioxidants"],
+          "foodSuggestions": ["Tomato salsa", "Pineapple salsa"],
+          "benefits": ["Supports digestion", "Enhances flavors"],
+          "precautions": ["Limit added sugars in commercial salsas"]
+        }
+      ]
+    },
+    {
+      "week": 22,
+      "tips": [
+        {
+          "title": "Enhanced Blueberries",
+          "shortDescription": "Superfood for pregnancy.",
+          "fullDescription": "Blueberries provide antioxidants that can help combat oxidative stress and support heart health during pregnancy.",
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Blueberry muffins", "Yogurt with blueberries"],
+          "benefits": ["Support overall health", "Promotes fetal development"],
+          "precautions": ["Watch portion sizes for sugar content"]
+        },
+        {
+          "title": "Homemade Energy Bars",
+          "shortDescription": "Nutrient-dense snacks.",
+          "fullDescription": "Making energy bars at home with oats and nuts is simple and ensures nutritious ingredients.",
+          "nutrients": ["Fiber", "Healthy fats"],
+          "foodSuggestions": ["Oat and nut energy balls", "Homemade protein bars"],
+          "benefits": ["Convenient snacks", "Boost energy levels"],
+          "precautions": ["Control added sugars"]
+        },
+        {
+          "title": "Filling Quinoa Bowls",
+          "shortDescription": "Protein-packed and versatile.",
+          "fullDescription": "Quinoa bowls can be filled with vegetables and proteins, providing a balanced meal in one dish.",
+          "nutrients": ["Protein", "Fiber"],
+          "foodSuggestions": ["Quinoa salad with black beans", "Quinoa and roasted veggies"],
+          "benefits": ["Provides balanced nutrition", "Supports satiety"],
+          "precautions": ["Rinse thoroughly before cooking to remove saponins"]
+        },
+        {
+          "title": "Fermented Pickles",
+          "shortDescription": "Enhances gut health.",
+          "fullDescription": "Pickling vegetables can create probiotic-rich snacks that support digestive health.",
+          "nutrients": ["Probiotics"],
+          "foodSuggestions": ["Homemade pickled cucumbers", "Fermented veggie mixes"],
+          "benefits": ["Supports gut health", "Variety in diet"],
+          "precautions": ["Limit salt intake in commercial products"]
+        },
+        {
+          "title": "Seafood Variety",
+          "shortDescription": "Includes low-mercury options.",
+          "fullDescription": "Including a variety of seafood in your diet can provide Omega-3s and other nutrients but stay aware of mercury levels.",
+          "nutrients": ["Omega-3 fatty acids", "Protein"],
+          "foodSuggestions": ["Shrimp tacos", "Mackerel salad"],
+          "benefits": ["Supports fetal brain development", "Improves heart health"],
+          "precautions": ["Limit high-mercury fish options"]
+        }
+      ]
+    },
+    {
+      "week": 23,
+      "tips": [
+        {
+          "title": "Nutritious Lentil Soup",
+          "shortDescription": "Comforting and filling.",
+          "fullDescription": "Lentil soup can be a satisfying meal packed with fiber, protein, and various essential nutrients.",
+          "nutrients": ["Protein", "Fiber"],
+          "foodSuggestions": ["Lentil and vegetable soup"],
+          "benefits": ["Supports digestion", "Keeps you full"],
+          "precautions": ["Allow to cool to avoid burns"]
+        },
+        {
+          "title": "Tempting Sweet Corn",
+          "shortDescription": "High in fiber and nutrients.",
+          "fullDescription": "Corn is versatile and nutritious, providing fiber and vitamins to your meals.",
+          "nutrients": ["Fiber", "Vitamins"],
+          "foodSuggestions": ["Corn salsa", "Grilled corn on the cob"],
+          "benefits": ["Supports healthy digestion", "Provides various nutrients"],
+          "precautions": ["Choose organic when possible"]
+        },
+        {
+          "title": "Savory Starchy Vegetables",
+          "shortDescription": "Include a variety of starchy veggies.",
+          "fullDescription": "Root vegetables like beets and potatoes provide essential vitamins and minerals.",
+          "nutrients": ["Vitamins", "Carbohydrates"],
+          "foodSuggestions": ["Roasted sweet potatoes", "Beet salad"],
+          "benefits": ["Supports energy levels", "Rich in antioxidants"],
+          "precautions": ["Monitor portion sizes for starchy carbs"]
+        },
+        {
+          "title": "Time for Tofu",
+          "shortDescription": "High in protein and calcium.",
+          "fullDescription": "Tofu can be a great source of protein for vegetarians and provides calcium and iron.",
+          "nutrients": ["Protein", "Calcium"],
+          "foodSuggestions": ["Stir-fried tofu with vegetables", "Tofu scramble"],
+          "benefits": ["Supports muscle growth", "Improves overall health"],
+          "precautions": ["Choose organic tofu if possible"]
+        },
+        {
+          "title": "Fresh Salad Toppings",
+          "shortDescription": "Add variety with toppings.",
+          "fullDescription": "Enhance your salads with diverse toppings like nuts, seeds, and whole grains for added texture and nutrition.",
+          "nutrients": ["Protein", "Healthy fats"],
+          "foodSuggestions": ["Salad with nuts and seeds", "Quinoa salad"],
+          "benefits": ["Diversifies meals", "Increases meal satisfaction"],
+          "precautions": ["Watch portion sizes to avoid excess calories"]
+        }
+      ]
+    },
+    {
+      "week": 24,
+      "tips": [
+        {
+          "title": "Green Veggie Choices",
+          "shortDescription": "Incorporate various greens.",
+          "fullDescription": "Include a mix of green vegetables in your meals for a variety of nutrients, especially iron and calcium.",
+          "nutrients": ["Iron", "Calcium"],
+          "foodSuggestions": ["Mixed green salads", "Stir-fried greens"],
+          "benefits": ["Supports fetal development", "Promotes overall health"],
+          "precautions": ["Wash thoroughly to remove pesticides"]
+        },
+        {
+          "title": "Tasty Tilapia",
+          "shortDescription": "Lean protein option.",
+          "fullDescription": "Tilapia is a lean fish that provides protein and can be seasoned in various ways for tasty meals.",
+          "nutrients": ["Protein", "Omega-3 fatty acids"],
+          "foodSuggestions": ["Baked tilapia", "Fish tacos"],
+          "benefits": ["Supports healthy development", "Great source of lean protein"],
+          "precautions": ["Limit high-mercury mix"]
+        },
+        {
+          "title": "Peppers and Their Benefits",
+          "shortDescription": "High in vitamin C.",
+          "fullDescription": "Sweet bell peppers are versatile and can boost your meals with antioxidants and vitamins.",
+          "nutrients": ["Vitamin C", "Antioxidants"],
+          "foodSuggestions": ["Stuffed peppers", "Pepper salad"],
+          "benefits": ["Supports immune system", "Enhances flavor"],
+          "precautions": ["Wash thoroughly before use"]
+        },
+        {
+          "title": "Nutrient-Packed Smoothies",
+          "shortDescription": "Great for on-the-go nutrition.",
+          "fullDescription": "Smoothies can be a way to pack in greens and fruits quickly and deliciously without hassle.",
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Green smoothie with spinach and banana", "Berry smoothie"],
+          "benefits": ["Convenient nutrition", "Rich in vitamins"],
+          "precautions": ["Monitor added sugars or sweeteners"]
+        },
+        {
+          "title": "Avoid Processed Snacks",
+          "shortDescription": "Whole foods are best.",
+          "fullDescription": "Limit processed foods that contain additives, sugars, and unhealthy fats; opt for whole food snacks instead.",
+          "nutrients": [],
+          "foodSuggestions": ["Fruits, nuts, yogurt"],
+          "benefits": ["Supports a healthy diet", "Reduces food additives"],
+          "precautions": ["Read labels for hidden sugars"]
+        }
+      ]
+    },
+    {
+      "week": 25,
+      "tips": [
+        {
+          "title": "Banish Sugary Drinks",
+          "shortDescription": "Opt for water and unsweetened drinks.",
+          "fullDescription": "Avoid sugary and soft drinks during pregnancy to maintain healthy blood sugar levels; choose water or herbal tea instead.",
+          "nutrients": [],
+          "foodSuggestions": ["Water, herbal teas"],
+          "benefits": ["Reduces excess sugar intake", "Hydrates body"],
+          "precautions": ["Read labels for drinks carefully"]
+        },
+        {
+          "title": "Whole-Grain Pancakes",
+          "shortDescription": "Nourishing breakfast option.",
+          "fullDescription": "Make pancakes with whole grain flour for a nutritious breakfast that keeps you full longer.",
+          "nutrients": ["Fiber", "Complex carbohydrates"],
+          "foodSuggestions": ["Whole grain pancakes", "Oatmeal pancakes"],
+          "benefits": ["Maintains energy levels", "Supports digestive health"],
+          "precautions": ["Limit syrup or extra sweeteners"]
+        },
+        {
+          "title": "Snack Smart with Cheese",
+          "shortDescription": "Protein-packed snack.",
+          "fullDescription": "Cheese can be a great source of protein and calcium while helping to satisfy cravings.",
+          "nutrients": ["Calcium", "Protein"],
+          "foodSuggestions": ["String cheese", "Cheese with fruit"],
+          "benefits": ["Supports bone health", "Increases energy"],
+          "precautions": ["Choose pasteurized cheese to avoid foodborne illness"]
+        },
+        {
+          "title": "Nutritious Quinoa Pilaf",
+          "shortDescription": "Nutty, flavorful dish.",
+          "fullDescription": "Quinoa pilaf with vegetables can be a hearty dish, offering protein and fiber that keeps you full variations.",
+          "nutrients": ["Protein", "Fiber"],
+          "foodSuggestions": ["Quinoa pilaf with broccoli", "Quinoa and veggie stir-fry"],
+          "benefits": ["Supports digestion", "Offers fueling energy"],
+          "precautions": ["Thoroughly rinse before cooking"]
+        },
+        {
+          "title": "Nut Butters for Energy",
+          "shortDescription": "Natural protein sources.",
+          "fullDescription": "Nut butters provide protein and healthy fats; pair them with apple slices or toast for a nutritious snack.",
+          "nutrients": ["Healthy fats", "Protein"],
+          "foodSuggestions": ["Peanut butter on apple slices", "Almond butter on toast"],
+          "benefits": ["Promotes satiety", "Supports energy levels"],
+          "precautions": ["Monitor portion sizes due to caloric density"]
+        }
+      ]
+    },
+    {
+      "week": 26,
+      "tips": [
+        {
+          "title": "Bonkers for Broccoli",
+          "shortDescription": "Nutrient-dense vegetable.",
+          "fullDescription": "Broccoli is packed with vitamins and minerals, making it a great choice to support fetal growth.",
+          "nutrients": ["Vitamins", "Iron"],
+          "foodSuggestions": ["Steamed broccoli", "Stir-fried broccoli"],
+          "benefits": ["Provides antioxidants", "Promotes healthy development"],
+          "precautions": ["Wash thoroughly before preparing"]
+        },
+        {
+          "title": "Nourishing Egg Dishes",
+          "shortDescription": "Easy and versatile options.",
+          "fullDescription": "Eggs can be prepared in many ways. They're a great source of protein and can add variety to breakfast.",
+          "nutrients": ["Protein", "Choline"],
+          "foodSuggestions": ["Omelettes", "Egg frittatas"],
+          "benefits": ["Supports fetal brain development", "Promotes satiety"],
+          "precautions": ["Ensure they are cooked fully to avoid salmonella"]
+        },
+        {
+          "title": "Ice Cream Alternatives",
+          "shortDescription": "Healthier choices for a sweet treat.",
+          "fullDescription": "Choose frozen yogurt or sorbets made from whole fruits as healthier alternatives to ice cream.",
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Banana ice cream", "Frozen yogurt"],
+          "benefits": ["Satisfies sweet cravings", "Lower calorie options"],
+          "precautions": ["Watch portion sizes due to sugar content"]
+        },
+        {
+          "title": "Homemade Veggie Burgers",
+          "shortDescription": "Bean or veggie-based options.",
+          "fullDescription": "Homemade veggie burgers from beans or lentils can be a nutritious meal option packed with nutrients.",
+          "nutrients": ["Protein", "Fiber"],
+          "foodSuggestions": ["Black bean burgers", "Lentil patties"],
+          "benefits": ["Provides protein and fiber", "Supports weight management"],
+          "precautions": ["Limit added sugars in sauces"]
+        },
+        {
+          "title": "Creative Salad Ingredients",
+          "shortDescription": "Mix up your salads.",
+          "fullDescription": "Add a variety of ingredients such as seeds and nuts to elevate nutrient content in your salads.",
+          "nutrients": [],
+          "foodSuggestions": ["Salads with nuts, seeds, and fruits"],
+          "benefits": ["Offers well-rounded meals", "Provides healthy fats"],
+          "precautions": ["Watch portion sizes for nuts"]
+        }
+      ]
+    },
+    {
+      "week": 27,
+      "tips": [
+        {
+          "title": "Try Sweet Potatoes",
+          "shortDescription": "Nutritious and versatile.",
+          "fullDescription": "Sweet potatoes are high in vitamins and provide fiber to support digestion during pregnancy.",
+          "nutrients": ["Vitamin A", "Fiber"],
+          "foodSuggestions": ["Roasted sweet potatoes", "Sweet potato fries"],
+          "benefits": ["Boosts immunity", "Promotes digestive health"],
+          "precautions": ["Monitor portion sizes"]
+        },
+        {
+          "title": "Opt for Cherry Tomatoes",
+          "shortDescription": "Rich in vitamins.",
+          "fullDescription": "Cherry tomatoes can add a burst of flavor and nutrients to salads and dishes.",
+          "nutrients": ["Vitamin C", "Antioxidants"],
+          "foodSuggestions": ["Cherry tomatoes in salads", "Roasted cherry tomatoes"],
+          "benefits": ["Promotes healthy skin", "Provides hydration"],
+          "precautions": ["Wash before eating"]
+        },
+        {
+          "title": "Snack Smart with Yogurt",
+          "shortDescription": "Fermented food with probiotics.",
+          "fullDescription": "Yogurt is a great source of protein and calcium. Choose plain yogurt for better control of sugar intake.",
+          "nutrients": ["Calcium", "Probiotics"],
+          "foodSuggestions": ["Plain yogurt with fruits", "Yogurt parfait"],
+          "benefits": ["Supports gut health", "Enhances immune system"],
+          "precautions": ["Choose full-fat or reduced-fat options wisely"]
+        },
+        {
+          "title": "Nutritious Chickpeas",
+          "shortDescription": "Protein and fiber-rich.",
+          "fullDescription": "Chickpeas are versatile and are a great source of protein and fiber during pregnancy.",
+          "nutrients": ["Protein", "Fiber"],
+          "foodSuggestions": ["Hummus", "Chickpea salad"],
+          "benefits": ["Promotes satiety", "Supports digestive health"],
+          "precautions": ["Thoroughly rinse canned chickpeas"]
+        },
+        {
+          "title": "Healthy Homemade Spreads",
+          "shortDescription": "Make your own dips and spreads.",
+          "fullDescription": "Consider making hummus or guacamole as healthier dip options, nourishing with healthy fats and proteins.",
+          "nutrients": ["Healthy fats", "Protein"],
+          "foodSuggestions": ["Guacamole with veggies", "Homemade hummus"],
+          "benefits": ["Provides healthy fats", "Satisfies snack cravings"],
+          "precautions": ["Avoid excess salt and preservatives"]
+        }
+      ]
+    },
+    {
+      "week": 28,
+      "tips": [
+        {
+          "title": "Royal Kale",
+          "shortDescription": "Nutrient powerhouse.",
+          "fullDescription": "Kale can provide essential vitamins, minerals, and fiber which are vital during pregnancy.",
+          "nutrients": ["Vitamins", "Antioxidants"],
+          "foodSuggestions": ["Kale salad"," Kales in smoothies"],
+          "benefits": ["Supports immune system", "Boosts nutrition"],
+          "precautions": ["Wash thoroughly before cooking"]
+        },
+        {
+          "title": "Tasty Ground Turkey",
+          "shortDescription": "Lean protein choice.",
+          "fullDescription": "Ground turkey is a lean source of protein that can be used in various dishes, supporting proper weight gain.",
+          "nutrients": ["Protein","B vitamins"],
+          "foodSuggestions": ["Turkey chili", "Turkey burgers"],
+          "benefits": ["Promotes fetal growth", "Supports muscle development"],
+          "precautions": ["Cook thoroughly to avoid bacteria"]
+        },
+        {
+          "title": "Nutritious Cabbage",
+          "shortDescription": "Rich in fiber and vitamins.",
+          "fullDescription": "Cabbage can not only add crunch to meals but provides fiber and essential vitamins to your diet.",
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Coleslaw", "Stir-fried cabbage"],
+          "benefits": ["Supports digestion", "Helps with weight management"],
+          "precautions": ["Wash thoroughly before consumption"]
+        },
+        {
+          "title": "Incorporate Nutritious Seeds",
+          "shortDescription": "Add crunch to dishes.",
+          "fullDescription": "Seeds like sunflower and chia seeds add a nutrient boost, providing healthy fats and protein.",
+          "nutrients": ["Healthy fats", "Protein"],
+          "foodSuggestions": ["Salads with chia seeds", "Sunflower seed butter"],
+          "benefits": ["Boosts nutrition", "Provides satiety"],
+          "precautions": ["Control portion sizes due to calorie density"]
+        },
+        {
+          "title": "Creative Veggie Pizza",
+          "shortDescription": "Fun and nutritious meal.",
+          "fullDescription": "Consider making your own pizza with whole grain crust and loaded with tomatoes and greens.",
+          "nutrients": ["Fiber", "Vitamins"],
+          "foodSuggestions": ["Whole grain veggie pizza", "Homemade pizza"],
+          "benefits": ["An enjoyable way to include veggies", "Healthier meal option"],
+          "precautions": ["Avoid high-fat toppings and excess cheese"]
+        }
+      ]
+    },
+    {
+      "week": 29,
+      "tips": [
+        {
+          "title": "Batch Cook for Convenience",
+          "shortDescription": "Prep meals in advance.",
+          "fullDescription": "Preparing large batches of nutritious meals can help manage time and ensure healthy options are on hand.",
+          "nutrients": [],
+          "foodSuggestions": ["Vegetable stews", "Grains like quinoa"],
+          "benefits": ["Reduces daily cooking time", "Supports healthy eating habits"],
+          "precautions": ["Store leftovers properly to avoid spoilage"]
+        },
+        {
+          "title": "Balanced Grain Bowls",
+          "shortDescription": "Fuel up with grains and veggies.",
+          "fullDescription": "Create grain bowls with quinoa, brown rice, or farro topped with roasted vegetables for a balanced meal.",
+          "nutrients": ["Carbohydrates", "Vitamins"],
+          "foodSuggestions": ["Quinoa bowl with roasted vegetables"],
+          "benefits": ["Provides energy", "Nutritionally sound"],
+          "precautions": ["Monitor portion sizes"]
+        },
+        {
+          "title": "Roasted Chickpeas Snack",
+          "shortDescription": "High protein and fiber snack.",
+          "fullDescription": "Roasting chickpeas can make a crunchy and satisfying snack that's full of protein and fiber.",
+          "nutrients": ["Fiber", "Protein"],
+          "foodSuggestions": ["Spiced roasted chickpeas"],
+          "benefits": ["Filling snack", "Supports digestion"],
+          "precautions": ["Watch for added oils and salt"]
+        },
+        {
+          "title": "Hearty Barley",
+          "shortDescription": "Excellent whole grain option.",
+          "fullDescription": "Barley is a nutrient-rich grain that can be added to soups or salads for added texture and nutrition.",
+          "nutrients": ["Fiber", "Vitamins"],
+          "foodSuggestions": ["Barley soup", "Barley salad"],
+          "benefits": ["Supports digestive health", "Controls hunger"],
+          "precautions": ["Rinse thoroughly before cooking"]
+        },
+        {
+          "title": "Nutritious Salsa Verde",
+          "shortDescription": "Add flavor to meals.",
+          "fullDescription": "Homemade salsa verde can enhance dishes and provide vitamins while keeping sodium low.",
+          "nutrients": ["Vitamins", "Antioxidants"],
+          "foodSuggestions": ["Salsa verde on tacos", "Grilled chicken with salsa verde"],
+          "benefits": ["Adds flavors without added sugars", "Promotes vegetable intake"],
+          "precautions": ["Control portion sizes if adding to meals"]
+        }
+      ]
+    },
+       {
+      "week": 30,
+      "tips": [
+        {
+          "title": "Savory Stuffed Peppers",
+          "shortDescription": "Wholesome and nutrient-rich meal.",
+          "fullDescription": "Stuff bell peppers with quinoa, black beans, and cheese to create a hearty meal full of nutrients.",
+          "nutrients": ["Fiber", "Protein"],
+          "foodSuggestions": ["Quinoa and black bean stuffed peppers", "Bell peppers with ground turkey"],
+          "benefits": ["Supports digestive health", "Rich in vitamins"],
+          "precautions": ["Monitor portion sizes to avoid excessive calorie intake"]
+        },
+        {
+          "title": "Nutritious Oatmeal",
+          "shortDescription": "Start your day with fiber.",
+          "fullDescription": "Oatmeal is rich in fiber and can be topped with fruits and nuts for added nutrients and flavor.",
+          "nutrients": ["Fiber", "Vitamins"],
+          "foodSuggestions": ["Oatmeal with bananas and walnuts", "Overnight oats"],
+          "benefits": ["Helps with digestion", "Keeps you full longer"],
+          "precautions": ["Choose low-sugar toppings to keep it healthy"]
+        },
+        {
+          "title": "Frozen Fruit Treats",
+          "shortDescription": "Cool down with a nutritious snack.",
+          "fullDescription": "Freeze berries or other fruits to make refreshing snacks that are full of vitamins and low in sugar.",
+          "nutrients": ["Vitamins", "Antioxidants"],
+          "foodSuggestions": ["Frozen grapes", "Berry ice pops"],
+          "benefits": ["Helps with hydration", "Natural sweetness"],
+          "precautions": ["Avoid syrups or added sugars"]
+        },
+        {
+          "title": "Coconut Oil Benefits",
+          "shortDescription": "Use healthy fats in cooking.",
+          "fullDescription": "Coconut oil can provide healthy fats and may support digestion and metabolism. Use it in moderation.",
+          "nutrients": ["Healthy fats"],
+          "foodSuggestions": ["Cooking with coconut oil", "Baking with coconut oil"],
+          "benefits": ["Supports brain health", "Enhances flavors"],
+          "precautions": ["Monitor total fat intake to avoid excess calories"]
+        },
+        {
+          "title": "Zesty Lemon Water",
+          "shortDescription": "Stay hydrated and refreshed.",
+          "fullDescription": "Add lemon to your water for extra flavor and vitamin C without added sugars.",
+          "nutrients": ["Vitamin C"],
+          "foodSuggestions": ["Lemon-infused water", "Lemonade with no added sugar"],
+          "benefits": ["Supports hydration", "Boosts immune system"],
+          "precautions": ["Limit citrus intake if you have acid reflux"]
+        }
+      ]
+    },
+    {
+      "week": 31,
+      "tips": [
+        {
+          "title": "Ginger Infusion",
+          "shortDescription": "Great for digestion.",
+          "fullDescription": "Ginger can help reduce nausea and support digestion, making it a great addition to meals or tea.",
+          "nutrients": ["Gingerol"],
+          "foodSuggestions": ["Ginger tea", "Ginger in stir-fries"],
+          "benefits": ["Aids in digestion", "Reduces nausea"],
+          "precautions": ["Consult your healthcare provider about dosage"]
+        },
+        {
+          "title": "Beetroot Benefits",
+          "shortDescription": "Rich in nitrates for improved blood flow.",
+          "fullDescription": "Beetroot is not only tasty but also supports circulation during pregnancy. It can also Boost energy levels.",
+          "nutrients": ["Folate", "Vitamins"],
+          "foodSuggestions": ["Beet salads", "Roasted beets"],
+          "benefits": ["Improves blood flow", "Boosts energy"],
+          "precautions": ["Watch for high oxalate content in kidney issues"]
+        },
+        {
+          "title": "Comforting Chicken Soup",
+          "shortDescription": "Nourishing and filling.",
+          "fullDescription": "Homemade chicken soup provides nutritious food during colds or flu while being easy on the stomach.",
+          "nutrients": ["Protein", "Vitamins"],
+          "foodSuggestions": ["Chicken and vegetable soup"],
+          "benefits": ["Supports immune function", "Provides hydration"],
+          "precautions": ["Limit salt in broths"]
+        },
+        {
+          "title": "Maintain Iron Intake",
+          "shortDescription": "Pair iron-rich foods with vitamin C.",
+          "fullDescription": "Ensure your meals contain both iron-rich foods and vitamin C to optimize iron absorption.",
+          "nutrients": ["Iron", "Vitamin C"],
+          "foodSuggestions": ["Spinach with lemon salad", "Beef with bell pepper"],
+          "benefits": ["Reduces risk of anemia", "Boosts energy levels"],
+          "precautions": ["Avoid eating high-calcium foods simultaneously, which may inhibit absorption"]
+        },
+        {
+          "title": "Healthy Vegetable Sticks",
+          "shortDescription": "Great for snacking.",
+          "fullDescription": "Cut up vegetables like carrots, cucumber, and celery for crunchy snacks paired with hummus or yogurt dips.",
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Veggie sticks with hummus", "Cucumber slices with yogurt dip"],
+          "benefits": ["Promotes healthy snacking", "Rich in vitamins"],
+          "precautions": ["Wash all vegetables thoroughly"]
+        }
+      ]
+    },
+    {
+      "week": 32,
+      "tips": [
+        {
+          "title": "Delicious Chia Pudding",
+          "shortDescription": "Nutrient-dense breakfast alternative.",
+          "fullDescription": "Chia seeds can absorb liquid to create a pudding-like consistency, making them an excellent, healthy breakfast option.",
+          "nutrients": ["Omega-3 fatty acids", "Fiber"],
+          "foodSuggestions": ["Chia pudding topped with fruits", "Chia smoothie"],
+          "benefits": ["Promotes satiety", "Supports heart health"],
+          "precautions": ["Soak seeds before consuming"]
+        },
+        {
+          "title": "Tasty Black Beans",
+          "shortDescription": "Rich in protein and fiber.",
+          "fullDescription": "Black beans are a versatile and nutritious choice for adding protein and fiber to meals.",
+          "nutrients": ["Protein", "Fiber"],
+          "foodSuggestions": ["Black bean tacos", "Black bean salad"],
+          "benefits": ["Improves digestion", "Sustains energy"],
+          "precautions": ["Rinse well to lower sodium from canned beans"]
+        },
+        {
+          "title": "Cinnamon for Health",
+          "shortDescription": "Spice with numerous benefits.",
+          "fullDescription": "Cinnamon is known for its anti-inflammatory properties and can add warmth and flavor to your meals.",
+          "nutrients": ["Cinnamaldehyde"],
+          "foodSuggestions": ["Cinnamon on oatmeal", "Cinnamon in smoothies"],
+          "benefits": ["May help regulate blood sugar", "Enhances flavor"],
+          "precautions": ["Use in moderation and check for sensitivities"]
+        },
+        {
+          "title": "Veggie-Rich Stir-Frys",
+          "shortDescription": "Quick and healthy meals.",
+          "fullDescription": "Stir-fry a variety of colorful vegetables with lean proteins for a nutritious and quick meal.",
+          "nutrients": ["Vitamins", "Protein"],
+          "foodSuggestions": ["Chicken and broccoli stir-fry", "Tofu stir-fry with mixed veggies"],
+          "benefits": ["Supports overall health", "Provides quick energy"],
+          "precautions": ["Use low-sodium sauces to keep it healthy"]
+        },
+        {
+          "title": "Maintain A Balanced Diet",
+          "shortDescription": "Variety is key during pregnancy.",
+          "fullDescription": "Focus on incorporating a variety of food groups, including lean proteins, whole grains, fruits, and vegetables for balanced nutrition.",
+          "nutrients": [],
+          "foodSuggestions": ["Balanced plates with diverse foods"],
+          "benefits": ["Supports overall health", "Prevents nutritional deficiencies"],
+          "precautions": ["Consider speaking with a nutritionist for personalized guidance"]
+        }
+      ]
+    },
+    {
+      "week": 33,
+      "tips": [
+        {
+          "title": "Delightful Zucchini",
+          "shortDescription": "Low-calorie and nutritious vegetable.",
+          "fullDescription": "Zucchini is versatile and can be added to many dishes while being low in calories and high in nutrients.",
+          "nutrients": ["Vitamin C", "Manganese"],
+          "foodSuggestions": ["Zucchini noodles", "Stuffed zucchini"],
+          "benefits": ["Hydrating food option", "Supports digestion"],
+          "precautions": ["Wash thoroughly before cooking"]
+        },
+        {
+          "title": "Antioxidant-Rich Mushrooms",
+          "shortDescription": "Versatile vegetable great for cooking.",
+          "fullDescription": "Mushrooms are packed with nutrients, including selenium, which is important for immune function during pregnancy.",
+          "nutrients": ["Selenium", "Vitamin D"],
+          "foodSuggestions": ["Grilled mushrooms", "Mushroom soup"],
+          "benefits": ["Supports immune health", "Enhances dish flavor"],
+          "precautions": ["Ensure mushrooms are well-cooked to avoid toxins"]
+        },
+        {
+          "title": "Nutty Granola",
+          "shortDescription": "Perfect for breakfast or snacks.",
+          "fullDescription": "Make your own granola for a healthy mix of oats, nuts, and seeds. Great for breakfasts and snacks.",
+          "nutrients": ["Fiber", "Healthy fats"],
+          "foodSuggestions": ["Homemade granola with yogurt", "Granola bars"],
+          "benefits": ["Supports digestion", "Keeps you full longer"],
+          "precautions": ["Monitor added sugars to avoid excess calories"]
+        },
+        {
+          "title": "Whole Grain Bread Choices",
+          "shortDescription": "Opt for fiber-rich options.",
+          "fullDescription": "Whole grain bread is a nutrient-rich choice that helps keep you full and provides important vitamins.",
+          "nutrients": ["Fiber", "B vitamins"],
+          "foodSuggestions": ["Whole grain sandwiches", "Avocado toast on whole grain bread"],
+          "benefits": ["Supports digestive health", "Balance energy levels"],
+          "precautions": ["Avoid breads with high sugar content"]
+        },
+        {
+          "title": "Crispy Toasted Nuts",
+          "shortDescription": "Great source of healthy fats.",
+          "fullDescription": "Toasting nuts enhances their flavor and can be great as a crunchy topping to salads or snacks.",
+          "nutrients": ["Healthy fats", "Protein"],
+          "foodSuggestions": ["Toasted almonds", "Walnuts on salads"],
+          "benefits": ["Healthy snacking option", "Promotes satiety"],
+          "precautions": ["Portion control is key, as nuts are calorie-dense"]
+        }
+      ]
+    },
+    {
+      "week": 34,
+      "tips": [
+        {
+          "title": "Focus on Fiber-Rich Lentils",
+          "shortDescription": "Support digestive health.",
+          "fullDescription": "Lentils are high in fiber and protein, making them an excellent choice during pregnancy.",
+          "nutrients": ["Fiber", "Protein"],
+          "foodSuggestions": ["Lentil soup", "Lentil stew"],
+          "benefits": ["Aids in digestion", "Keeps you full"],
+          "precautions": ["Avoid excessive spice if sensitive stomach"]
+        },
+        {
+          "title": "Potassium-Rich Bananas",
+          "shortDescription": "Prevent leg cramps.",
+          "fullDescription": "Bananas are high in potassium, which is essential for muscle function, and can help prevent leg cramps.",
+          "nutrients": ["Potassium", "Vitamin B6"],
+          "foodSuggestions": ["Banana smoothies", "Sliced banana on toast"],
+          "benefits": ["Supports muscle health", "Boosts energy"],
+          "precautions": ["Monitor sugar intake if using processed banana products"]
+        },
+        {
+          "title": "Refreshing Watermelon",
+          "shortDescription": "A hydrating fruit.",
+          "fullDescription": "Watermelon is perfect for hydration and provides vitamins A and C. It can help with swelling too.",
+          "nutrients": ["Water", "Vitamins A, C"],
+          "foodSuggestions": ["Fresh watermelon slices", "Watermelon smoothies"],
+          "benefits": ["Hydrates the body", "Helps reduce swelling"],
+          "precautions": ["Monitor portion sizes to avoid excess sugar intake"]
+        },
+        {
+          "title": "Savory Vegetable Quiche",
+          "shortDescription": "Easy and nutritious dish.",
+          "fullDescription": "Quiche made with vegetables and eggs provides protein and essential nutrients for pregnancy.",
+          "nutrients": ["Protein", "Vitamins"],
+          "foodSuggestions": ["Vegetable quiche", "Mini quiches"],
+          "benefits": ["Filling meal", "Supports muscle growth"],
+          "precautions": ["Cook eggs thoroughly to avoid salmonella"]
+        },
+        {
+          "title": "Fiber-Rich Whole Grain Pasta",
+          "shortDescription": "Nutritious and filling dinner option.",
+          "fullDescription": "Whole grain pasta provides additional fiber and nutrients as a staple in your meals.",
+          "nutrients": ["Fiber", "Complex carbohydrates"],
+          "foodSuggestions": ["Whole grain pasta dishes", "Pasta salad with vegetables"],
+          "benefits": ["Supports digestion", "Keeps energy levels stable"],
+          "precautions": ["Avoid high-calorie sauces; use fresh vegetables instead"]
+        }
+      ]
+    },
+    {
+      "week": 35,
+      "tips": [
+        {
+          "title": "Easy Veggie Frittata",
+          "shortDescription": "Packed with nutrients and easy to prepare.",
+          "fullDescription": "A frittata made with fresh vegetables provides protein and essential vitamins while being delicious.",
+          "nutrients": ["Protein", "Vitamins"],
+          "foodSuggestions": ["Vegetable frittata with spinach", "Zucchini frittata"],
+          "benefits": ["Supports muscle repair", "Enhances nutrient intake"],
+          "precautions": ["Ensure eggs are well-cooked"]
+        },
+        {
+          "title": "Make Your Own Trail Mix",
+          "shortDescription": "Snack on healthy mixtures.",
+          "fullDescription": "Combine nuts, seeds, and dried fruits for a nutrient-dense trail mix that is easy to grab on the go.",
+          "nutrients": ["Protein", "Healthy fats"],
+          "foodSuggestions": ["Homemade trail mix"],
+          "benefits": ["Great energy snack", "Supports healthy weight gain"],
+          "precautions": ["Monitor portion sizes as nuts are calorie-dense"]
+        },
+        {
+          "title": "Opt for Fresh Herbs",
+          "shortDescription": "Enhance meals with flavor and nutrients.",
+          "fullDescription": "Herbs like parsley and cilantro can enrich flavors in your meals and provide additional nutrients.",
+          "nutrients": ["Vitamins", "Antioxidants"],
+          "foodSuggestions": ["Herb salsa", "Garnishing with fresh herbs"],
+          "benefits": ["Enhances flavors without added calories", "Provides nutritional benefits"],
+          "precautions": ["Rinse fresh herbs thoroughly before consumption"]
+        },
+        {
+          "title": "Oven-Baked Vegetables",
+          "shortDescription": "Healthier side dishes.",
+          "fullDescription": "Roasting vegetables enhances flavors and can create a nutritious side dish full of vitamins.",
+          "nutrients": ["Vitamins", "Antioxidants"],
+          "foodSuggestions": ["Roasted Brussels sprouts", "Oven-roasted carrots"],
+          "benefits": ["Supports overall health", "Enhances flavor"],
+          "precautions": ["Avoid excess oil to keep them healthy"]
+        },
+        {
+          "title": "Sweet Potato Toast",
+          "shortDescription": "Nutrient-rich alternative to bread.",
+          "fullDescription": "Slice and toast sweet potatoes for a healthy alternative to bread base, topped with various healthy ingredients.",
+          "nutrients": ["Vitamin A", "Fiber"],
+          "foodSuggestions": ["Sweet potato toast with avocado", "Sweet potato with almond butter"],
+          "benefits": ["Provides complex carbs", "Supports digestive health"],
+          "precautions": ["Monitor portion if concerned with sugars"]
+        }
+      ]
+    },
+    {
+      "week": 36,
+      "tips": [
+        {
+          "title": "Protein-Rich Tempeh",
+          "shortDescription": "Plant-based protein option.",
+          "fullDescription": "Tempeh is a fermented soy product high in protein, perfect for meat alternatives during pregnancy.",
+          "nutrients": ["Protein", "Vitamins"],
+          "foodSuggestions": ["Stir-fried tempeh", "Tempeh salads"],
+          "benefits": ["Supports muscle health", "Enhances dietary protein"],
+          "precautions": ["Ensure it is cooked properly"]
+        },
+        {
+          "title": "Whole Fruit Smoothies",
+          "shortDescription": "Healthier way to enjoy smoothies.",
+          "fullDescription": "Blend whole fruits with yogurt or milk for smoothies that are packed with fiber and nutrients.",
+          "nutrients": ["Fiber", "Vitamins"],
+          "foodSuggestions": ["Banana and spinach smoothie", "Berry smoothie"],
+          "benefits": ["Provides vitamins and minerals", "Keeps you full"],
+          "precautions": ["Limit added sugars for health"]
+        },
+        {
+          "title": "Nourishing Rice Bowls",
+          "shortDescription": "A colorful and nutrient-rich meal.",
+          "fullDescription": "Create bowls with brown rice, colorful vegetables, and a protein source for a balanced meal.",
+          "nutrients": ["Complex carbohydrates", "Vitamins"],
+          "foodSuggestions": ["Vegetable rice bowls", "Chicken and vegetable bowl with brown rice"],
+          "benefits": ["Supports energy levels", "Provides variety"],
+          "precautions": ["Watch portion sizes to manage calories"]
+        },
+        {
+          "title": "Cucumber Refreshments",
+          "shortDescription": "Hydrating snacks.",
+          "fullDescription": "Cucumbers are mostly water and can be a refreshing and hydrating snack during hot weather.",
+          "nutrients": ["Water", "Vitamins"],
+          "foodSuggestions": ["Cucumber salads", "Cucumber and hummus"],
+          "benefits": ["Helps with hydration", "Low-calorie snack"],
+          "precautions": ["Wash thoroughly before eating"]
+        },
+        {
+          "title": "Enjoy Roasted Nuts",
+          "shortDescription": "Crunchy snacks with nutrients.",
+          "fullDescription": "Roast nuts to bring out their flavors and enjoy as a healthy snack option while providing healthy fats.",
+          "nutrients": ["Healthy fats", "Protein"],
+          "foodSuggestions": ["Roasted almonds", "Mixed nuts"],
+          "benefits": ["Great plant-based protein source", "Satisfies cravings"],
+          "precautions": ["Monitor portions due to calorie density"]
+        }
+      ]
+    },
+    {
+      "week": 37,
+      "tips": [
+        {
+          "title": "Berry Blast",
+          "shortDescription": "Nutritious and delicious.",
+          "fullDescription": "Berries are packed with antioxidants and essential nutrients to boost your overall health during pregnancy.",
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Berry parfaits", "Smoothies with berries"],
+          "benefits": ["Supports immune health", "High water content"],
+          "precautions": ["Wash thoroughly to avoid pesticides"]
+        },
+        {
+          "title": "Opt for Whole Grain Breakfasts",
+          "shortDescription": "Start your day right.",
+          "fullDescription": "Choose whole grain cereals or oats for breakfast to ensure you get adequate fiber and energy.",
+          "nutrients": ["Fiber", "B vitamins"],
+          "foodSuggestions": ["Whole grain oatmeal", "Cereals with whole grains"],
+          "benefits": ["Sustains energy", "Supports digestion"],
+          "precautions": ["Moderate toppings to avoid excess sugar"]
+        },
+        {
+          "title": "Cheesy Vegetable Bake",
+          "shortDescription": "Comfort food that’s healthy.",
+          "fullDescription": "Baking vegetables with cheese creates a nutritious dish that can be enjoyed at any mealtime.",
+          "nutrients": ["Calcium", "Vitamins"],
+          "foodSuggestions": ["Baked vegetable casserole", "Cheesy broccoli bake"],
+          "benefits": ["Supports bone health", "Enhances flavors"],
+          "precautions": ["Watch cheese and seasoning quantities to manage calories"]
+        },
+        {
+          "title": "Sweet Potato Nourishment",
+          "shortDescription": "Rich source of vitamins.",
+          "fullDescription": "Sweet potatoes can be prepared in many ways and are a powerhouse of nutrients for supporting fetal growth.",
+          "nutrients": ["Vitamin A", "Fiber"],
+          "foodSuggestions": ["Mashed sweet potatoes", "Baked sweet potato fries"],
+          "benefits": ["Supports vision", "Promotes healthy bowel movements"],
+          "precautions": ["Monitor portion sizes for blood sugar management"]
+        },
+        {
+          "title": "Energizing Cacao Nibs",
+          "shortDescription": "Healthy sweets option.",
+          "fullDescription": "Cacao nibs provide antioxidants and can be a great addition to smoothies and baked goods.",
+          "nutrients": ["Antioxidants", "Magnesium"],
+          "foodSuggestions": ["Add to smoothies", "Top yogurt with cacao nibs"],
+          "benefits": ["Boosts mood and energy", "Supports heart health"],
+          "precautions": ["Consume in moderation, as they can be high in calories"]
+        }
+      ]
+    },
+    {
+      "week": 38,
+      "tips": [
+        {
+          "title": "Protein-Rich Chicken",
+          "shortDescription": "Versatile and nutritious option.",
+          "fullDescription": "Including lean chicken in your diet provides necessary protein as you approach delivery.",
+          "nutrients": ["Protein", "B vitamins"],
+          "foodSuggestions": ["Grilled chicken", "Chicken stir-fry"],
+          "benefits": ["Supports muscle health", "Aids recovery"],
+          "precautions": ["Cook thoroughly to avoid foodborne illnesses"]
+        },
+        {
+          "title": "Hydrating Smoothies",
+          "shortDescription": "Cool down with nutrient-packed drinks.",
+          "fullDescription": "Make smoothies with yogurt and fruits for a refreshing, hydrating drink loaded with nutrients.",
+          "nutrients": ["Vitamins", "Calcium"],
+          "foodSuggestions": ["Smoothies with bananas and yogurt", "Mixed berry smoothie"],
+          "benefits": ["Helps maintain hydration", "Supports digestive health"],
+          "precautions": ["Watch sugar levels if using juices"]
+        },
+        {
+          "title": "Flavor with Fresh Basil",
+          "shortDescription": "Enhance your dishes.",
+          "fullDescription": "Fresh basil can elevate the taste of meals while providing essential antioxidants.",
+          "nutrients": ["Vitamins", "Antioxidants"],
+          "foodSuggestions": ["Pasta with basil pesto", "Caprese salad"],
+          "benefits": ["Supports overall health", "Adds flavor without calories"],
+          "precautions": ["Wash thoroughly before using"]
+        },
+        {
+          "title": "Seasonal Vegetables",
+          "shortDescription": "Utilize fresh produce.",
+          "fullDescription": "Seasonal vegetables are tastier and more nutritious—use them to create vibrant meals.",
+          "nutrients": [],
+          "foodSuggestions": ["Vegetable stir-fries with seasonal choices"],
+          "benefits": ["Fresher taste", "Higher nutrient content"],
+          "precautions": ["Ensure all vegetables are washed and cooked properly"]
+        },
+        {
+          "title": "Healthy Baking Choices",
+          "shortDescription": "Use healthier substitutes.",
+          "fullDescription": "When baking, substitute refined sugar for natural sweeteners like honey or maple syrup.",
+          "nutrients": [],
+          "foodSuggestions": ["Baking with applesauce", "Using honey for sweetening"],
+          "benefits": ["Reduces refined sugar intake", "Enhances flavors naturally"],
+          "precautions": ["Use in moderation to control calories"]
+        }
+      ]
+    },
+    {
+      "week": 39,
+      "tips": [
+        {
+          "title": "Focus on Whole Foods",
+          "shortDescription": "Choose natural over processed.",
+          "fullDescription": "Prioritize whole foods in your diet for optimal nutrition during the last weeks of pregnancy.",
+          "nutrients": [],
+          "foodSuggestions": ["Fruits, vegetables, and whole grains"],
+          "benefits": ["Ensures balanced nutrition", "Prevents unnecessary weight gain"],
+          "precautions": ["Avoid foods with additives and preservatives"]
+        },
+        {
+          "title": "Sunflower Seed Snacks",
+          "shortDescription": "Great source of healthy fats.",
+          "fullDescription": "Sunflower seeds provide healthy fats and can be a satisfying snack option when cravings hit.",
+          "nutrients": ["Vitamin E", "Healthy fats"],
+          "foodSuggestions": ["Raw sunflower seeds", "Sunflower seed butter"],
+          "benefits": ["Promotes heart health", "Supports energy levels"],
+          "precautions": ["Monitor portion sizes to manage calorie intake"]
+        },
+        {
+          "title": "Crispy Baked Veggies",
+          "shortDescription": "A healthy alternative to chips.",
+          "fullDescription": "Baked veggie chips can be a healthy snack uncovering the nutritional potential of vegetables.",
+          "nutrients": ["Vitamins", "Fiber"],
+          "foodSuggestions": ["Baked kale chips", "Baked sweet potato chips"],
+          "benefits": ["Keeps snacking healthy", "Provides essential vitamins"],
+          "precautions": ["Watch for added oils or seasonings that raise calories"]
+        },
+        {
+          "title": "Nutty Smoothie Bowls",
+          "shortDescription": "Fun and nutritious meal.",
+          "fullDescription": "Smoothie bowls can be topped with nuts, seeds, and fruits for a nutritious breakfast or snack.",
+          "nutrients": ["Proteins", "Vitamins"],
+          "foodSuggestions": ["Berry smoothie bowl with granola", "Banana smoothie bowl with nuts"],
+          "benefits": ["Provides balanced nutrition", "Keeps you full"],
+          "precautions": ["Watch portion sizes of toppings to manage calories"]
+        },
+        {
+          "title": "Early Preparation for Postpartum",
+          "shortDescription": "Plan meals for recovery.",
+          "fullDescription": "Prepare and freeze meals in advance to ensure easy access to nutritious food during postpartum recovery.",
+          "nutrients": [],
+          "foodSuggestions": ["Freezer-friendly meals like casseroles"],
+          "benefits": ["Reduces stress during recovery", "Ensures you eat nutritious meals"],
+          "precautions": ["Label and date meals clearly before freezing"]
+        }
+      ]
+    },
+    {
+      "week": 40,
+      "tips": [
+        {
+          "title": "Stay Calm and Hydrated",
+          "shortDescription": "Hydration is essential.",
+          "fullDescription": "As you approach delivery, ensure that you stay well-hydrated to support your body’s needs.",
+          "nutrients": ["Water"],
+          "foodSuggestions": ["Watermelon and cucumber salads", "Herbal teas"],
+          "benefits": ["Prevents dehydration", "Supports healthy labor"],
+          "precautions": ["Watch for caffeine and sugary drinks"]
+        },
+        {
+          "title": "Energy-Boosting Nuts",
+          "shortDescription": "Great for last-minute energy.",
+          "fullDescription": "Nuts are excellent snacks during the final weeks, providing protein and healthy fats to cope with energy demands.",
+          "nutrients": ["Healthy fats", "Protein"],
+          "foodSuggestions": ["Almonds", "Mixed nuts"],
+          "benefits": ["Stabilizes energy", "Supports satiety"],
+          "precautions": ["Moderate intake to avoid excess calories"]
+        },
+        {
+          "title": "Nourishing Smoothies",
+          "shortDescription": "Make nutrient-rich smoothies.",
+          "fullDescription": "Smoothies can be a great way to ensure you’re getting essential vitamins—blend fruits, vegetables, and proteins.",
+          "nutrients": ["Vitamins", "Protein"],
+          "foodSuggestions": ["Spinach berry smoothie", "Yogurt-based smoothies"],
+          "benefits": ["Supports nutrition"," Easy to digest"],
+          "precautions": ["Limit or avoid added sugars"]
+        },
+        {
+          "title": "Employ Whole Grains",
+          "shortDescription": "Choose whole grains for your meals.",
+          "fullDescription": "As you prepare for labor, rely on whole grains for complex carbohydrates to keep your energy stable.",
+          "nutrients": ["Fiber", "B vitamins"],
+          "foodSuggestions": ["Whole grain rice"," Quinoa dishes"],
+          "benefits": ["Supports sustained energy", "Improves digestive health"],
+          "precautions": ["Avoid added sugars from sauces or dressings"]
+        },
+        {
+          "title": "Prepare for Healthy Snacks After Delivery",
+          "shortDescription": "Homemade snacks for postpartum recovery.",
+          "fullDescription": "Create healthy snack packs in advance for easier access for postpartum energy boosts.",
+          "nutrients": ["Protein", "Fiber"],
+          "foodSuggestions": ["Protein bars", "Nut and seed mixes"],
+          "benefits": ["Provides quick nutrition"," Supports energy needs during recovery"],
+          "precautions": ["Consider individual caloric needs based on activity levels"]
+        }
+      ]
+    }
+  ]
+}
