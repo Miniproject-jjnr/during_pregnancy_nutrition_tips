@@ -700,7 +700,6 @@
         }
       ]
     },
-// Continue filling in the subsequent weeks similarly, until week 40
     {
       "week": 15,
       "tips": [
