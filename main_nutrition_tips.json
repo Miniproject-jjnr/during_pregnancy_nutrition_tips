@@ -2235,7 +2235,7 @@
           "shortDescription": "Nutritious and versatile root vegetable.",
           "fullDescription": "Sweet potatoes are packed with vitamins and can be prepared in various dishes.",
           "nutrients": ["Vitamin A", "Fiber"],
-          "foodSuggestions": ["Mashed sweet potatoes", "Roasted sweet potato"]
+          "foodSuggestions": ["Mashed sweet potatoes", "Roasted sweet potato"],
           "benefits": ["Supports eye health", "Promotes healthy bowel movements"],
           "precautions": ["Execution may require cooking to tenderness"]
         },
